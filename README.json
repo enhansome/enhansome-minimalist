@@ -45,7 +45,7 @@
             "last_commit": "2022-12-30T17:37:47Z",
             "owner": "basscss",
             "repo": "basscss",
-            "stars": 5895
+            "stars": 5896
           }
         },
         {
@@ -285,7 +285,7 @@
             "last_commit": "2026-05-09T18:16:06Z",
             "owner": "picocss",
             "repo": "pico",
-            "stars": 16811
+            "stars": 16810
           }
         },
         {
@@ -420,7 +420,7 @@
             "last_commit": "2026-08-14T19:43:34Z",
             "owner": "tailwindlabs",
             "repo": "tailwindcss",
-            "stars": 97324
+            "stars": 97327
           }
         },
         {
@@ -597,7 +597,7 @@
             "last_commit": "2026-08-23T21:11:40Z",
             "owner": "flightphp",
             "repo": "core",
-            "stars": 2883
+            "stars": 2884
           }
         }
       ],
@@ -618,7 +618,7 @@
             "last_commit": "2026-08-24T12:30:53Z",
             "owner": "alpinejs",
             "repo": "alpine",
-            "stars": 31883
+            "stars": 31881
           }
         },
         {
@@ -864,7 +864,7 @@
             "last_commit": "2026-08-24T09:10:55Z",
             "owner": "labstack",
             "repo": "echo",
-            "stars": 32657
+            "stars": 32659
           }
         },
         {
@@ -996,7 +996,7 @@
             "last_commit": "2026-08-15T16:29:24Z",
             "owner": "javalin",
             "repo": "javalin",
-            "stars": 8339
+            "stars": 8340
           }
         },
         {
@@ -1401,7 +1401,7 @@
             "archived": false,
             "id": 11551538,
             "language": "JavaScript",
-            "last_commit": "2026-08-24T15:32:54Z",
+            "last_commit": "2026-08-25T07:16:44Z",
             "owner": "koajs",
             "repo": "koa",
             "stars": 35690
@@ -1671,7 +1671,7 @@
             "last_commit": "2026-08-23T21:11:40Z",
             "owner": "flightphp",
             "repo": "core",
-            "stars": 2883
+            "stars": 2884
           }
         },
         {
@@ -1908,7 +1908,7 @@
             "archived": false,
             "id": 926544,
             "language": "PHP",
-            "last_commit": "2026-08-09T09:02:37Z",
+            "last_commit": "2026-08-25T07:25:59Z",
             "owner": "slimphp",
             "repo": "Slim",
             "stars": 12280
@@ -2157,7 +2157,7 @@
             "last_commit": "2026-08-19T08:58:11Z",
             "owner": "fastapi",
             "repo": "fastapi",
-            "stars": 101825
+            "stars": 101831
           }
         },
         {
@@ -2172,7 +2172,7 @@
             "last_commit": "2026-08-16T18:35:35Z",
             "owner": "pallets",
             "repo": "flask",
-            "stars": 72147
+            "stars": 72145
           }
         },
         {
@@ -2199,7 +2199,7 @@
             "archived": false,
             "id": 3409513,
             "language": "Python",
-            "last_commit": "2026-08-24T23:34:10Z",
+            "last_commit": "2026-08-25T10:00:55Z",
             "owner": "twisted",
             "repo": "klein",
             "stars": 837
@@ -2463,7 +2463,7 @@
             "last_commit": "2026-08-24T16:45:05Z",
             "owner": "hanami",
             "repo": "hanami",
-            "stars": 6407
+            "stars": 6408
           }
         },
         {
@@ -2490,7 +2490,7 @@
             "archived": false,
             "id": 39947871,
             "language": "Ruby",
-            "last_commit": "2026-08-25T03:00:46Z",
+            "last_commit": "2026-08-25T10:01:07Z",
             "owner": "karafka",
             "repo": "karafka",
             "stars": 2256
@@ -2538,7 +2538,7 @@
             "last_commit": "2026-08-24T16:45:05Z",
             "owner": "hanami",
             "repo": "hanami",
-            "stars": 6407
+            "stars": 6408
           }
         },
         {
@@ -2583,7 +2583,7 @@
             "last_commit": "2026-06-22T23:32:46Z",
             "owner": "padrino",
             "repo": "padrino-framework",
-            "stars": 3400
+            "stars": 3399
           }
         },
         {
@@ -2628,7 +2628,7 @@
             "last_commit": "2026-07-20T09:59:21Z",
             "owner": "sinatra",
             "repo": "sinatra",
-            "stars": 12454
+            "stars": 12453
           }
         },
         {
@@ -2783,7 +2783,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T05:50:24.129Z",
+    "last_updated": "2026-08-25T10:03:11.213Z",
     "original_repository": "neiesc/awesome-minimalist",
     "original_repository_id": 15118599,
     "original_repository_sha": "a234acf4a040e6f58fc0893911fb64dd17b2f77c",
