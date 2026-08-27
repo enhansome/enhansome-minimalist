@@ -285,7 +285,7 @@
             "last_commit": "2026-05-09T18:16:06Z",
             "owner": "picocss",
             "repo": "pico",
-            "stars": 16818
+            "stars": 16819
           }
         },
         {
@@ -405,7 +405,7 @@
             "last_commit": "2026-07-20T15:11:15Z",
             "owner": "tachyons-css",
             "repo": "tachyons",
-            "stars": 11716
+            "stars": 11717
           }
         },
         {
@@ -420,7 +420,7 @@
             "last_commit": "2026-08-14T19:43:34Z",
             "owner": "tailwindlabs",
             "repo": "tailwindcss",
-            "stars": 97353
+            "stars": 97359
           }
         },
         {
@@ -618,7 +618,7 @@
             "last_commit": "2026-08-25T13:32:02Z",
             "owner": "alpinejs",
             "repo": "alpine",
-            "stars": 31883
+            "stars": 31885
           }
         },
         {
@@ -846,7 +846,7 @@
             "archived": false,
             "id": 44344606,
             "language": "Go",
-            "last_commit": "2026-08-20T12:03:54Z",
+            "last_commit": "2026-08-27T13:57:27Z",
             "owner": "go-chi",
             "repo": "chi",
             "stars": 22739
@@ -864,7 +864,7 @@
             "last_commit": "2026-08-24T09:10:55Z",
             "owner": "labstack",
             "repo": "echo",
-            "stars": 32664
+            "stars": 32667
           }
         },
         {
@@ -996,7 +996,7 @@
             "last_commit": "2026-08-15T16:29:24Z",
             "owner": "javalin",
             "repo": "javalin",
-            "stars": 8340
+            "stars": 8341
           }
         },
         {
@@ -1026,7 +1026,7 @@
             "last_commit": "2024-04-15T19:08:00Z",
             "owner": "oblac",
             "repo": "jodd",
-            "stars": 4054
+            "stars": 4053
           }
         },
         {
@@ -1314,7 +1314,7 @@
             "last_commit": "2026-08-22T21:00:02Z",
             "owner": "expressjs",
             "repo": "express",
-            "stars": 69400
+            "stars": 69401
           }
         },
         {
@@ -1344,7 +1344,7 @@
             "last_commit": "2026-08-23T18:19:15Z",
             "owner": "fastify",
             "repo": "fastify",
-            "stars": 37034
+            "stars": 37037
           }
         },
         {
@@ -1419,7 +1419,7 @@
             "last_commit": "2026-08-23T19:14:27Z",
             "owner": "mastrojs",
             "repo": "mastro",
-            "stars": 185
+            "stars": 186
           }
         },
         {
@@ -1434,7 +1434,7 @@
             "last_commit": "2026-08-23T19:14:27Z",
             "owner": "mastrojs",
             "repo": "mastro",
-            "stars": 185
+            "stars": 186
           }
         },
         {
@@ -1446,10 +1446,10 @@
             "archived": false,
             "id": 108873775,
             "language": "TypeScript",
-            "last_commit": "2026-08-26T23:19:57Z",
+            "last_commit": "2026-08-27T19:38:28Z",
             "owner": "remult",
             "repo": "remult",
-            "stars": 3209
+            "stars": 3208
           }
         },
         {
@@ -2157,7 +2157,7 @@
             "last_commit": "2026-08-26T17:54:56Z",
             "owner": "fastapi",
             "repo": "fastapi",
-            "stars": 101874
+            "stars": 101885
           }
         },
         {
@@ -2172,7 +2172,7 @@
             "last_commit": "2026-08-16T18:35:35Z",
             "owner": "pallets",
             "repo": "flask",
-            "stars": 72143
+            "stars": 72145
           }
         },
         {
@@ -2418,7 +2418,7 @@
             "last_commit": "2026-08-24T08:08:24Z",
             "owner": "ruby-grape",
             "repo": "grape",
-            "stars": 10003
+            "stars": 10004
           }
         },
         {
@@ -2490,7 +2490,7 @@
             "archived": false,
             "id": 39947871,
             "language": "Ruby",
-            "last_commit": "2026-08-27T11:43:14Z",
+            "last_commit": "2026-08-27T12:35:54Z",
             "owner": "karafka",
             "repo": "karafka",
             "stars": 2256
@@ -2783,7 +2783,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:54:35.327Z",
+    "last_updated": "2026-08-27T19:56:30.649Z",
     "original_repository_info": {
       "archived": false,
       "id": 15118599,
