@@ -16,7 +16,8 @@
             "owner": "colourgarden",
             "repo": "avalanche",
             "stars": 620
-          }
+          },
+          "first_seen": "2026-08-28T20:58:25.432Z"
         },
         {
           "node_type": "item",
@@ -31,7 +32,8 @@
             "owner": "getbase",
             "repo": "base",
             "stars": 1324
-          }
+          },
+          "first_seen": "2026-08-28T20:58:25.432Z"
         },
         {
           "node_type": "item",
@@ -45,8 +47,9 @@
             "last_commit": "2022-12-30T17:37:47Z",
             "owner": "basscss",
             "repo": "basscss",
-            "stars": 5897
-          }
+            "stars": 5898
+          },
+          "first_seen": "2026-08-28T20:58:25.432Z"
         },
         {
           "node_type": "item",
@@ -61,7 +64,8 @@
             "owner": "andhart",
             "repo": "bijou",
             "stars": 600
-          }
+          },
+          "first_seen": "2026-08-28T20:58:25.432Z"
         },
         {
           "node_type": "item",
@@ -76,7 +80,8 @@
             "owner": "BlazeCSS",
             "repo": "blaze",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T20:58:25.432Z"
         },
         {
           "node_type": "item",
@@ -91,7 +96,8 @@
             "owner": "cardinalcss",
             "repo": "cardinalcss",
             "stars": 708
-          }
+          },
+          "first_seen": "2026-08-28T20:58:25.432Z"
         },
         {
           "node_type": "item",
@@ -106,7 +112,8 @@
             "owner": "jslegers",
             "repo": "cascadeframework",
             "stars": 275
-          }
+          },
+          "first_seen": "2026-08-28T20:58:25.432Z"
         },
         {
           "node_type": "item",
@@ -121,7 +128,8 @@
             "owner": "jslegers",
             "repo": "cascadeframeworklight",
             "stars": 22
-          }
+          },
+          "first_seen": "2026-08-28T20:58:25.432Z"
         },
         {
           "node_type": "item",
@@ -136,7 +144,8 @@
             "owner": "ConciseCSS",
             "repo": "concise.css",
             "stars": 931
-          }
+          },
+          "first_seen": "2026-08-28T20:58:25.432Z"
         },
         {
           "node_type": "item",
@@ -151,7 +160,8 @@
             "owner": "davidlumley",
             "repo": "concrete",
             "stars": 42
-          }
+          },
+          "first_seen": "2026-08-28T20:58:25.432Z"
         },
         {
           "node_type": "item",
@@ -166,7 +176,8 @@
             "owner": "html5-ninja",
             "repo": "icecream",
             "stars": 61
-          }
+          },
+          "first_seen": "2026-08-28T20:58:25.432Z"
         },
         {
           "node_type": "item",
@@ -180,8 +191,9 @@
             "last_commit": "2026-07-02T12:39:26Z",
             "owner": "alsacreations",
             "repo": "KNACSS",
-            "stars": 557
-          }
+            "stars": 556
+          },
+          "first_seen": "2026-08-28T20:58:25.432Z"
         },
         {
           "node_type": "item",
@@ -196,7 +208,8 @@
             "owner": "LesliTech",
             "repo": "lesli-css",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-28T20:58:25.432Z"
         },
         {
           "node_type": "item",
@@ -211,7 +224,8 @@
             "owner": "milligram",
             "repo": "milligram",
             "stars": 10216
-          }
+          },
+          "first_seen": "2026-08-28T20:58:25.432Z"
         },
         {
           "node_type": "item",
@@ -226,7 +240,8 @@
             "owner": "owenversteeg",
             "repo": "min",
             "stars": 1201
-          }
+          },
+          "first_seen": "2026-08-28T20:58:25.432Z"
         },
         {
           "node_type": "item",
@@ -241,7 +256,8 @@
             "owner": "Chalarangelo",
             "repo": "mini.css",
             "stars": 2947
-          }
+          },
+          "first_seen": "2026-08-28T20:58:25.432Z"
         },
         {
           "node_type": "item",
@@ -256,7 +272,8 @@
             "owner": "andybrewer",
             "repo": "mvp",
             "stars": 5129
-          }
+          },
+          "first_seen": "2026-08-28T20:58:25.432Z"
         },
         {
           "node_type": "item",
@@ -271,7 +288,8 @@
             "owner": "zlatanvasovic",
             "repo": "mistype",
             "stars": 18
-          }
+          },
+          "first_seen": "2026-08-28T20:58:25.432Z"
         },
         {
           "node_type": "item",
@@ -285,8 +303,9 @@
             "last_commit": "2026-05-09T18:16:06Z",
             "owner": "picocss",
             "repo": "pico",
-            "stars": 16819
-          }
+            "stars": 16824
+          },
+          "first_seen": "2026-08-28T20:58:25.432Z"
         },
         {
           "node_type": "item",
@@ -301,7 +320,8 @@
             "owner": "franciscop",
             "repo": "picnic",
             "stars": 3881
-          }
+          },
+          "first_seen": "2026-08-28T20:58:25.432Z"
         },
         {
           "node_type": "item",
@@ -316,7 +336,8 @@
             "owner": "arnaudleray",
             "repo": "pocketgrid",
             "stars": 322
-          }
+          },
+          "first_seen": "2026-08-28T20:58:25.432Z"
         },
         {
           "node_type": "item",
@@ -330,8 +351,9 @@
             "last_commit": "2026-02-14T03:48:55Z",
             "owner": "pure-css",
             "repo": "pure",
-            "stars": 23724
-          }
+            "stars": 23726
+          },
+          "first_seen": "2026-08-28T20:58:25.432Z"
         },
         {
           "node_type": "item",
@@ -346,7 +368,8 @@
             "owner": "RocketCSS",
             "repo": "RocketCSS",
             "stars": 18
-          }
+          },
+          "first_seen": "2026-08-28T20:58:25.432Z"
         },
         {
           "node_type": "item",
@@ -361,7 +384,8 @@
             "owner": "ThisIsDallas",
             "repo": "Simple-Grid",
             "stars": 1612
-          }
+          },
+          "first_seen": "2026-08-28T20:58:25.432Z"
         },
         {
           "node_type": "item",
@@ -375,8 +399,9 @@
             "last_commit": "2023-11-14T19:22:32Z",
             "owner": "dhg",
             "repo": "Skeleton",
-            "stars": 19381
-          }
+            "stars": 19380
+          },
+          "first_seen": "2026-08-28T20:58:25.432Z"
         },
         {
           "node_type": "item",
@@ -391,7 +416,8 @@
             "owner": "Rezi",
             "repo": "sugar-css",
             "stars": 48
-          }
+          },
+          "first_seen": "2026-08-28T20:58:25.432Z"
         },
         {
           "node_type": "item",
@@ -405,8 +431,9 @@
             "last_commit": "2026-07-20T15:11:15Z",
             "owner": "tachyons-css",
             "repo": "tachyons",
-            "stars": 11717
-          }
+            "stars": 11718
+          },
+          "first_seen": "2026-08-28T20:58:25.432Z"
         },
         {
           "node_type": "item",
@@ -420,8 +447,9 @@
             "last_commit": "2026-08-14T19:43:34Z",
             "owner": "tailwindlabs",
             "repo": "tailwindcss",
-            "stars": 97359
-          }
+            "stars": 97370
+          },
+          "first_seen": "2026-08-28T20:58:25.432Z"
         },
         {
           "node_type": "item",
@@ -436,7 +464,8 @@
             "owner": "daneden",
             "repo": "Toast",
             "stars": 1993
-          }
+          },
+          "first_seen": "2026-08-28T20:58:25.432Z"
         },
         {
           "node_type": "item",
@@ -451,7 +480,8 @@
             "owner": "kbrsh",
             "repo": "wing",
             "stars": 1996
-          }
+          },
+          "first_seen": "2026-08-28T20:58:25.432Z"
         },
         {
           "node_type": "item",
@@ -466,7 +496,8 @@
             "owner": "yamlcss",
             "repo": "yaml",
             "stars": 283
-          }
+          },
+          "first_seen": "2026-08-28T20:58:25.432Z"
         }
       ],
       "title": "Framework for CSS"
@@ -487,7 +518,8 @@
             "owner": "gabrielfalcao",
             "repo": "go-horse",
             "stars": 43
-          }
+          },
+          "first_seen": "2026-08-28T20:58:25.432Z"
         },
         {
           "node_type": "item",
@@ -502,7 +534,8 @@
             "owner": "danielwaterworth",
             "repo": "Raphters",
             "stars": 1275
-          }
+          },
+          "first_seen": "2026-08-28T20:58:25.432Z"
         }
       ],
       "title": "Web framework for C"
@@ -523,7 +556,8 @@
             "owner": "bephp",
             "repo": "activerecord",
             "stars": 116
-          }
+          },
+          "first_seen": "2026-08-28T20:58:25.432Z"
         },
         {
           "node_type": "item",
@@ -538,7 +572,8 @@
             "owner": "flourishlib",
             "repo": "flourish-classes",
             "stars": 183
-          }
+          },
+          "first_seen": "2026-08-28T20:58:25.432Z"
         },
         {
           "node_type": "item",
@@ -552,8 +587,9 @@
             "last_commit": "2026-08-22T04:27:15Z",
             "owner": "catfan",
             "repo": "Medoo",
-            "stars": 4948
-          }
+            "stars": 4949
+          },
+          "first_seen": "2026-08-28T20:58:25.432Z"
         },
         {
           "node_type": "item",
@@ -568,7 +604,8 @@
             "owner": "gabordemooij",
             "repo": "redbean",
             "stars": 2315
-          }
+          },
+          "first_seen": "2026-08-28T20:58:25.432Z"
         },
         {
           "node_type": "item",
@@ -583,7 +620,8 @@
             "owner": "vrana",
             "repo": "notorm",
             "stars": 851
-          }
+          },
+          "first_seen": "2026-08-28T20:58:25.432Z"
         },
         {
           "node_type": "item",
@@ -598,7 +636,8 @@
             "owner": "flightphp",
             "repo": "core",
             "stars": 2884
-          }
+          },
+          "first_seen": "2026-08-28T20:58:25.432Z"
         }
       ],
       "title": "Database framework for PHP"
@@ -615,11 +654,12 @@
             "archived": false,
             "id": 224663696,
             "language": "HTML",
-            "last_commit": "2026-08-25T13:32:02Z",
+            "last_commit": "2026-08-28T20:29:05Z",
             "owner": "alpinejs",
             "repo": "alpine",
-            "stars": 31885
-          }
+            "stars": 31888
+          },
+          "first_seen": "2026-08-28T20:58:25.432Z"
         },
         {
           "node_type": "item",
@@ -634,7 +674,8 @@
             "owner": "aurajs",
             "repo": "aura",
             "stars": 2927
-          }
+          },
+          "first_seen": "2026-08-28T20:58:25.432Z"
         },
         {
           "node_type": "item",
@@ -649,7 +690,8 @@
             "owner": "choojs",
             "repo": "choo",
             "stars": 6768
-          }
+          },
+          "first_seen": "2026-08-28T20:58:25.432Z"
         },
         {
           "node_type": "item",
@@ -664,7 +706,8 @@
             "owner": "cferdinandi",
             "repo": "kraken",
             "stars": 809
-          }
+          },
+          "first_seen": "2026-08-28T20:58:25.432Z"
         },
         {
           "node_type": "item",
@@ -679,7 +722,8 @@
             "owner": "L3P3",
             "repo": "lui",
             "stars": 17
-          }
+          },
+          "first_seen": "2026-08-28T20:58:25.432Z"
         },
         {
           "node_type": "item",
@@ -694,7 +738,8 @@
             "owner": "Polight",
             "repo": "lego",
             "stars": 149
-          }
+          },
+          "first_seen": "2026-08-28T20:58:25.432Z"
         },
         {
           "node_type": "item",
@@ -709,7 +754,8 @@
             "owner": "remy",
             "repo": "min.js",
             "stars": 1094
-          }
+          },
+          "first_seen": "2026-08-28T20:58:25.432Z"
         },
         {
           "node_type": "item",
@@ -724,7 +770,8 @@
             "owner": "bobtail-dev",
             "repo": "bobtail",
             "stars": 262
-          }
+          },
+          "first_seen": "2026-08-28T20:58:25.432Z"
         },
         {
           "node_type": "item",
@@ -739,7 +786,8 @@
             "owner": "ResponsiveBP",
             "repo": "Responsive",
             "stars": 871
-          }
+          },
+          "first_seen": "2026-08-28T20:58:25.432Z"
         },
         {
           "node_type": "item",
@@ -754,7 +802,8 @@
             "owner": "flosse",
             "repo": "scaleApp",
             "stars": 352
-          }
+          },
+          "first_seen": "2026-08-28T20:58:25.432Z"
         },
         {
           "node_type": "item",
@@ -769,7 +818,8 @@
             "owner": "ajlkn",
             "repo": "skel",
             "stars": 2202
-          }
+          },
+          "first_seen": "2026-08-28T20:58:25.432Z"
         },
         {
           "node_type": "item",
@@ -784,7 +834,8 @@
             "owner": "spine",
             "repo": "spine",
             "stars": 3692
-          }
+          },
+          "first_seen": "2026-08-28T20:58:25.432Z"
         },
         {
           "node_type": "item",
@@ -798,8 +849,9 @@
             "last_commit": "2018-04-18T20:42:03Z",
             "owner": "topcoat",
             "repo": "topcoat",
-            "stars": 4242
-          }
+            "stars": 4241
+          },
+          "first_seen": "2026-08-28T20:58:25.432Z"
         },
         {
           "node_type": "item",
@@ -814,7 +866,8 @@
             "owner": "nielsbaloe",
             "repo": "vertxui",
             "stars": 124
-          }
+          },
+          "first_seen": "2026-08-28T20:58:25.432Z"
         }
       ],
       "title": "Frameworks for Front-end JS"
@@ -835,7 +888,8 @@
             "owner": "astaxie",
             "repo": "beego",
             "stars": 742
-          }
+          },
+          "first_seen": "2026-08-28T20:58:25.432Z"
         },
         {
           "node_type": "item",
@@ -849,8 +903,9 @@
             "last_commit": "2026-08-27T13:57:27Z",
             "owner": "go-chi",
             "repo": "chi",
-            "stars": 22739
-          }
+            "stars": 22743
+          },
+          "first_seen": "2026-08-28T20:58:25.432Z"
         },
         {
           "node_type": "item",
@@ -864,8 +919,9 @@
             "last_commit": "2026-08-24T09:10:55Z",
             "owner": "labstack",
             "repo": "echo",
-            "stars": 32667
-          }
+            "stars": 32669
+          },
+          "first_seen": "2026-08-28T20:58:25.432Z"
         },
         {
           "node_type": "item",
@@ -880,7 +936,8 @@
             "owner": "gocraft",
             "repo": "web",
             "stars": 1524
-          }
+          },
+          "first_seen": "2026-08-28T20:58:25.432Z"
         },
         {
           "node_type": "item",
@@ -894,8 +951,9 @@
             "last_commit": "2022-03-29T19:42:09Z",
             "owner": "go-martini",
             "repo": "martini",
-            "stars": 11599
-          }
+            "stars": 11598
+          },
+          "first_seen": "2026-08-28T20:58:25.432Z"
         },
         {
           "node_type": "item",
@@ -910,7 +968,8 @@
             "owner": "gravityblast",
             "repo": "traffic",
             "stars": 519
-          }
+          },
+          "first_seen": "2026-08-28T20:58:25.432Z"
         }
       ],
       "title": "Web framework for Go"
@@ -931,7 +990,8 @@
             "owner": "scotty-web",
             "repo": "scotty",
             "stars": 1776
-          }
+          },
+          "first_seen": "2026-08-28T20:58:25.432Z"
         },
         {
           "node_type": "item",
@@ -946,7 +1006,8 @@
             "owner": "snapframework",
             "repo": "snap",
             "stars": 460
-          }
+          },
+          "first_seen": "2026-08-28T20:58:25.432Z"
         }
       ],
       "title": "Web framework for Haskell"
@@ -967,7 +1028,8 @@
             "owner": "lets-blade",
             "repo": "blade",
             "stars": 5875
-          }
+          },
+          "first_seen": "2026-08-28T20:58:25.432Z"
         },
         {
           "node_type": "item",
@@ -982,7 +1044,8 @@
             "owner": "cloudoptlab",
             "repo": "cloudopt-next",
             "stars": 350
-          }
+          },
+          "first_seen": "2026-08-28T20:58:25.432Z"
         },
         {
           "node_type": "item",
@@ -996,8 +1059,9 @@
             "last_commit": "2026-08-15T16:29:24Z",
             "owner": "javalin",
             "repo": "javalin",
-            "stars": 8341
-          }
+            "stars": 8342
+          },
+          "first_seen": "2026-08-28T20:58:25.432Z"
         },
         {
           "node_type": "item",
@@ -1012,7 +1076,8 @@
             "owner": "jfinal",
             "repo": "jfinal",
             "stars": 3269
-          }
+          },
+          "first_seen": "2026-08-28T20:58:25.432Z"
         },
         {
           "node_type": "item",
@@ -1027,7 +1092,8 @@
             "owner": "oblac",
             "repo": "jodd",
             "stars": 4053
-          }
+          },
+          "first_seen": "2026-08-28T20:58:25.432Z"
         },
         {
           "node_type": "item",
@@ -1042,7 +1108,8 @@
             "owner": "jooby-project",
             "repo": "jooby",
             "stars": 1780
-          }
+          },
+          "first_seen": "2026-08-28T20:58:25.432Z"
         },
         {
           "node_type": "item",
@@ -1057,7 +1124,8 @@
             "owner": "byronka",
             "repo": "minum",
             "stars": 664
-          }
+          },
+          "first_seen": "2026-08-28T20:58:25.432Z"
         },
         {
           "node_type": "item",
@@ -1072,7 +1140,8 @@
             "owner": "testinfected",
             "repo": "molecule",
             "stars": 31
-          }
+          },
+          "first_seen": "2026-08-28T20:58:25.432Z"
         },
         {
           "node_type": "item",
@@ -1087,7 +1156,8 @@
             "owner": "ninjaframework",
             "repo": "ninja",
             "stars": 1902
-          }
+          },
+          "first_seen": "2026-08-28T20:58:25.432Z"
         },
         {
           "node_type": "item",
@@ -1102,7 +1172,8 @@
             "owner": "pippo-java",
             "repo": "pippo",
             "stars": 787
-          }
+          },
+          "first_seen": "2026-08-28T20:58:25.432Z"
         },
         {
           "node_type": "item",
@@ -1117,7 +1188,8 @@
             "owner": "restlet",
             "repo": "restlet-framework-java",
             "stars": 667
-          }
+          },
+          "first_seen": "2026-08-28T20:58:25.432Z"
         },
         {
           "node_type": "item",
@@ -1132,7 +1204,8 @@
             "owner": "restx",
             "repo": "restx",
             "stars": 450
-          }
+          },
+          "first_seen": "2026-08-28T20:58:25.432Z"
         },
         {
           "node_type": "item",
@@ -1147,7 +1220,8 @@
             "owner": "Dreampie",
             "repo": "Resty",
             "stars": 1239
-          }
+          },
+          "first_seen": "2026-08-28T20:58:25.432Z"
         },
         {
           "node_type": "item",
@@ -1162,7 +1236,8 @@
             "owner": "perwendel",
             "repo": "spark",
             "stars": 9644
-          }
+          },
+          "first_seen": "2026-08-28T20:58:25.432Z"
         },
         {
           "node_type": "item",
@@ -1177,7 +1252,8 @@
             "owner": "jenkinsci",
             "repo": "stapler",
             "stars": 171
-          }
+          },
+          "first_seen": "2026-08-28T20:58:25.432Z"
         }
       ],
       "title": "Web framework for Java"
@@ -1198,7 +1274,8 @@
             "owner": "hay",
             "repo": "stapes",
             "stars": 439
-          }
+          },
+          "first_seen": "2026-08-28T20:58:25.432Z"
         },
         {
           "node_type": "item",
@@ -1213,7 +1290,8 @@
             "owner": "MithrilJS",
             "repo": "mithril.js",
             "stars": 14493
-          }
+          },
+          "first_seen": "2026-08-28T20:58:25.432Z"
         },
         {
           "node_type": "item",
@@ -1228,7 +1306,8 @@
             "owner": "franciscop",
             "repo": "umbrella",
             "stars": 2345
-          }
+          },
+          "first_seen": "2026-08-28T20:58:25.432Z"
         },
         {
           "node_type": "item",
@@ -1242,8 +1321,9 @@
             "last_commit": "2026-07-16T18:32:40Z",
             "owner": "vanjs-org",
             "repo": "van",
-            "stars": 4421
-          }
+            "stars": 4423
+          },
+          "first_seen": "2026-08-28T20:58:25.432Z"
         }
       ],
       "title": "Web framework for JavaScript"
@@ -1263,8 +1343,9 @@
             "last_commit": "2026-08-26T01:27:41Z",
             "owner": "leafo",
             "repo": "lapis",
-            "stars": 3338
-          }
+            "stars": 3339
+          },
+          "first_seen": "2026-08-28T20:58:25.432Z"
         },
         {
           "node_type": "item",
@@ -1279,7 +1360,8 @@
             "owner": "idevz",
             "repo": "vanilla",
             "stars": 1038
-          }
+          },
+          "first_seen": "2026-08-28T20:58:25.432Z"
         }
       ],
       "title": "Web framework for Lua"
@@ -1299,8 +1381,9 @@
             "last_commit": "2025-11-21T13:13:37Z",
             "owner": "blitz-js",
             "repo": "blitz",
-            "stars": 14129
-          }
+            "stars": 14130
+          },
+          "first_seen": "2026-08-28T20:58:25.432Z"
         },
         {
           "node_type": "item",
@@ -1315,7 +1398,8 @@
             "owner": "expressjs",
             "repo": "express",
             "stars": 69401
-          }
+          },
+          "first_seen": "2026-08-28T20:58:25.432Z"
         },
         {
           "node_type": "item",
@@ -1330,7 +1414,8 @@
             "owner": "jojoin",
             "repo": "Codekart",
             "stars": 200
-          }
+          },
+          "first_seen": "2026-08-28T20:58:25.432Z"
         },
         {
           "node_type": "item",
@@ -1344,8 +1429,9 @@
             "last_commit": "2026-08-23T18:19:15Z",
             "owner": "fastify",
             "repo": "fastify",
-            "stars": 37037
-          }
+            "stars": 37047
+          },
+          "first_seen": "2026-08-28T20:58:25.432Z"
         },
         {
           "node_type": "item",
@@ -1359,8 +1445,9 @@
             "last_commit": "2026-08-14T01:57:48Z",
             "owner": "feathersjs",
             "repo": "feathers",
-            "stars": 15267
-          }
+            "stars": 15265
+          },
+          "first_seen": "2026-08-28T20:58:25.432Z"
         },
         {
           "node_type": "item",
@@ -1375,7 +1462,8 @@
             "owner": "flatiron",
             "repo": "flatiron",
             "stars": 1321
-          }
+          },
+          "first_seen": "2026-08-28T20:58:25.432Z"
         },
         {
           "node_type": "item",
@@ -1390,7 +1478,8 @@
             "owner": "hapijs",
             "repo": "hapi",
             "stars": 14793
-          }
+          },
+          "first_seen": "2026-08-28T20:58:25.432Z"
         },
         {
           "node_type": "item",
@@ -1405,7 +1494,8 @@
             "owner": "koajs",
             "repo": "koa",
             "stars": 35690
-          }
+          },
+          "first_seen": "2026-08-28T20:58:25.432Z"
         },
         {
           "node_type": "item",
@@ -1420,7 +1510,8 @@
             "owner": "mastrojs",
             "repo": "mastro",
             "stars": 186
-          }
+          },
+          "first_seen": "2026-08-28T20:58:25.432Z"
         },
         {
           "node_type": "item",
@@ -1435,7 +1526,8 @@
             "owner": "mastrojs",
             "repo": "mastro",
             "stars": 186
-          }
+          },
+          "first_seen": "2026-08-28T20:58:25.432Z"
         },
         {
           "node_type": "item",
@@ -1450,7 +1542,8 @@
             "owner": "remult",
             "repo": "remult",
             "stars": 3208
-          }
+          },
+          "first_seen": "2026-08-28T20:58:25.432Z"
         },
         {
           "node_type": "item",
@@ -1461,11 +1554,12 @@
             "archived": false,
             "id": 705385147,
             "language": "JavaScript",
-            "last_commit": "2026-08-26T12:47:36Z",
+            "last_commit": "2026-08-28T13:41:15Z",
             "owner": "totaljs",
             "repo": "framework5",
             "stars": 19
-          }
+          },
+          "first_seen": "2026-08-28T20:58:25.432Z"
         },
         {
           "node_type": "item",
@@ -1480,7 +1574,8 @@
             "owner": "restify",
             "repo": "node-restify",
             "stars": 10686
-          }
+          },
+          "first_seen": "2026-08-28T20:58:25.432Z"
         },
         {
           "node_type": "item",
@@ -1495,7 +1590,8 @@
             "owner": "socketstream",
             "repo": "socketstream",
             "stars": 3516
-          }
+          },
+          "first_seen": "2026-08-28T20:58:25.432Z"
         },
         {
           "node_type": "item",
@@ -1509,8 +1605,9 @@
             "last_commit": "2026-05-27T22:29:55Z",
             "owner": "balderdashy",
             "repo": "sails",
-            "stars": 22804
-          }
+            "stars": 22805
+          },
+          "first_seen": "2026-08-28T20:58:25.432Z"
         }
       ],
       "title": "Web framework for Node.js"
@@ -1531,7 +1628,8 @@
             "owner": "PerlDancer",
             "repo": "Dancer",
             "stars": 725
-          }
+          },
+          "first_seen": "2026-08-28T20:58:25.432Z"
         },
         {
           "node_type": "item",
@@ -1546,7 +1644,8 @@
             "owner": "mojolicious",
             "repo": "mojo",
             "stars": 2747
-          }
+          },
+          "first_seen": "2026-08-28T20:58:25.432Z"
         }
       ],
       "title": "Web framework for Perl"
@@ -1567,7 +1666,8 @@
             "owner": "auraphp",
             "repo": "Aura.Web_Kernel",
             "stars": 24
-          }
+          },
+          "first_seen": "2026-08-28T20:58:25.432Z"
         },
         {
           "node_type": "item",
@@ -1582,7 +1682,8 @@
             "owner": "vlucas",
             "repo": "bulletphp",
             "stars": 415
-          }
+          },
+          "first_seen": "2026-08-28T20:58:25.432Z"
         },
         {
           "node_type": "item",
@@ -1597,7 +1698,8 @@
             "owner": "skyronic",
             "repo": "crudkit",
             "stars": 289
-          }
+          },
+          "first_seen": "2026-08-28T20:58:25.432Z"
         },
         {
           "node_type": "item",
@@ -1612,7 +1714,8 @@
             "owner": "colindean",
             "repo": "deano",
             "stars": 26
-          }
+          },
+          "first_seen": "2026-08-28T20:58:25.432Z"
         },
         {
           "node_type": "item",
@@ -1627,7 +1730,8 @@
             "owner": "equip",
             "repo": "framework",
             "stars": 117
-          }
+          },
+          "first_seen": "2026-08-28T20:58:25.432Z"
         },
         {
           "node_type": "item",
@@ -1642,7 +1746,8 @@
             "owner": "bcosca",
             "repo": "fatfree",
             "stars": 2713
-          }
+          },
+          "first_seen": "2026-08-28T20:58:25.432Z"
         },
         {
           "node_type": "item",
@@ -1657,7 +1762,8 @@
             "owner": "gregmolnar",
             "repo": "fitzgerald",
             "stars": 32
-          }
+          },
+          "first_seen": "2026-08-28T20:58:25.432Z"
         },
         {
           "node_type": "item",
@@ -1672,7 +1778,8 @@
             "owner": "flightphp",
             "repo": "core",
             "stars": 2884
-          }
+          },
+          "first_seen": "2026-08-28T20:58:25.432Z"
         },
         {
           "node_type": "item",
@@ -1687,7 +1794,8 @@
             "owner": "mary-shelley",
             "repo": "frankie",
             "stars": 21
-          }
+          },
+          "first_seen": "2026-08-28T20:58:25.432Z"
         },
         {
           "node_type": "item",
@@ -1702,7 +1810,8 @@
             "owner": "icehawk",
             "repo": "icehawk",
             "stars": 66
-          }
+          },
+          "first_seen": "2026-08-28T20:58:25.432Z"
         },
         {
           "node_type": "item",
@@ -1717,7 +1826,8 @@
             "owner": "zlatanvasovic",
             "repo": "hackwork",
             "stars": 32
-          }
+          },
+          "first_seen": "2026-08-28T20:58:25.432Z"
         },
         {
           "node_type": "item",
@@ -1732,7 +1842,8 @@
             "owner": "sofadesign",
             "repo": "limonade",
             "stars": 733
-          }
+          },
+          "first_seen": "2026-08-28T20:58:25.432Z"
         },
         {
           "node_type": "item",
@@ -1747,7 +1858,8 @@
             "owner": "laravel",
             "repo": "lumen",
             "stars": 7571
-          }
+          },
+          "first_seen": "2026-08-28T20:58:25.432Z"
         },
         {
           "node_type": "item",
@@ -1762,7 +1874,8 @@
             "owner": "xeoncross",
             "repo": "micromvc",
             "stars": 638
-          }
+          },
+          "first_seen": "2026-08-28T20:58:25.432Z"
         },
         {
           "node_type": "item",
@@ -1777,7 +1890,8 @@
             "owner": "panique",
             "repo": "mini3",
             "stars": 276
-          }
+          },
+          "first_seen": "2026-08-28T20:58:25.432Z"
         },
         {
           "node_type": "item",
@@ -1792,7 +1906,8 @@
             "owner": "nirix",
             "repo": "nanite",
             "stars": 60
-          }
+          },
+          "first_seen": "2026-08-28T20:58:25.432Z"
         },
         {
           "node_type": "item",
@@ -1807,7 +1922,8 @@
             "owner": "juliomatcom",
             "repo": "one-php-microframework",
             "stars": 94
-          }
+          },
+          "first_seen": "2026-08-28T20:58:25.432Z"
         },
         {
           "node_type": "item",
@@ -1822,7 +1938,8 @@
             "owner": "opulencephp",
             "repo": "Opulence",
             "stars": 716
-          }
+          },
+          "first_seen": "2026-08-28T20:58:25.432Z"
         },
         {
           "node_type": "item",
@@ -1833,11 +1950,12 @@
             "archived": false,
             "id": 2854337,
             "language": "PHP",
-            "last_commit": "2026-08-27T01:23:17Z",
+            "last_commit": "2026-08-28T20:23:38Z",
             "owner": "phalcon",
             "repo": "cphalcon",
-            "stars": 10828
-          }
+            "stars": 10827
+          },
+          "first_seen": "2026-08-28T20:58:25.432Z"
         },
         {
           "node_type": "item",
@@ -1852,7 +1970,8 @@
             "owner": "polymedio",
             "repo": "polyframework",
             "stars": 8
-          }
+          },
+          "first_seen": "2026-08-28T20:58:25.432Z"
         },
         {
           "node_type": "item",
@@ -1867,7 +1986,8 @@
             "owner": "popphp",
             "repo": "popcorn",
             "stars": 36
-          }
+          },
+          "first_seen": "2026-08-28T20:58:25.432Z"
         },
         {
           "node_type": "item",
@@ -1882,7 +2002,8 @@
             "owner": "Respect",
             "repo": "Rest",
             "stars": 605
-          }
+          },
+          "first_seen": "2026-08-28T20:58:25.432Z"
         },
         {
           "node_type": "item",
@@ -1897,7 +2018,8 @@
             "owner": "silexphp",
             "repo": "Silex",
             "stars": 3530
-          }
+          },
+          "first_seen": "2026-08-28T20:58:25.432Z"
         },
         {
           "node_type": "item",
@@ -1911,8 +2033,9 @@
             "last_commit": "2026-08-26T16:30:37Z",
             "owner": "slimphp",
             "repo": "Slim",
-            "stars": 12279
-          }
+            "stars": 12278
+          },
+          "first_seen": "2026-08-28T20:58:25.432Z"
         },
         {
           "node_type": "item",
@@ -1927,7 +2050,8 @@
             "owner": "imadige",
             "repo": "smceframework-MVC",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T20:58:25.432Z"
         },
         {
           "node_type": "item",
@@ -1942,7 +2066,8 @@
             "owner": "AliasIO",
             "repo": "Swiftlet",
             "stars": 417
-          }
+          },
+          "first_seen": "2026-08-28T20:58:25.432Z"
         },
         {
           "node_type": "item",
@@ -1957,7 +2082,8 @@
             "owner": "Digicreon",
             "repo": "Temma",
             "stars": 37
-          }
+          },
+          "first_seen": "2026-08-28T20:58:25.432Z"
         },
         {
           "node_type": "item",
@@ -1972,7 +2098,8 @@
             "owner": "mohrt",
             "repo": "tinymvc-php",
             "stars": 50
-          }
+          },
+          "first_seen": "2026-08-28T20:58:25.432Z"
         },
         {
           "node_type": "item",
@@ -1987,7 +2114,8 @@
             "owner": "tokernel",
             "repo": "toKernel.1",
             "stars": 3
-          }
+          },
+          "first_seen": "2026-08-28T20:58:25.432Z"
         },
         {
           "node_type": "item",
@@ -2002,7 +2130,8 @@
             "owner": "peej",
             "repo": "tonic",
             "stars": 622
-          }
+          },
+          "first_seen": "2026-08-28T20:58:25.432Z"
         },
         {
           "node_type": "item",
@@ -2017,7 +2146,8 @@
             "owner": "kristovaher",
             "repo": "Wave-Framework",
             "stars": 2
-          }
+          },
+          "first_seen": "2026-08-28T20:58:25.432Z"
         },
         {
           "node_type": "item",
@@ -2032,7 +2162,8 @@
             "owner": "laruence",
             "repo": "yaf",
             "stars": 4512
-          }
+          },
+          "first_seen": "2026-08-28T20:58:25.432Z"
         },
         {
           "node_type": "item",
@@ -2047,7 +2178,8 @@
             "owner": "zaphpa",
             "repo": "zaphpa",
             "stars": 88
-          }
+          },
+          "first_seen": "2026-08-28T20:58:25.432Z"
         }
       ],
       "title": "Web framework for PHP"
@@ -2068,7 +2200,8 @@
             "owner": "hivesolutions",
             "repo": "appier",
             "stars": 131
-          }
+          },
+          "first_seen": "2026-08-28T20:58:25.432Z"
         },
         {
           "node_type": "item",
@@ -2083,7 +2216,8 @@
             "owner": "zopefoundation",
             "repo": "bobo",
             "stars": 83
-          }
+          },
+          "first_seen": "2026-08-28T20:58:25.432Z"
         },
         {
           "node_type": "item",
@@ -2097,8 +2231,9 @@
             "last_commit": "2026-07-19T07:21:52Z",
             "owner": "bottlepy",
             "repo": "bottle",
-            "stars": 8779
-          }
+            "stars": 8777
+          },
+          "first_seen": "2026-08-28T20:58:25.432Z"
         },
         {
           "node_type": "item",
@@ -2113,7 +2248,8 @@
             "owner": "mahmoud",
             "repo": "clastic",
             "stars": 160
-          }
+          },
+          "first_seen": "2026-08-28T20:58:25.432Z"
         },
         {
           "node_type": "item",
@@ -2128,7 +2264,8 @@
             "owner": "fiorix",
             "repo": "cyclone",
             "stars": 692
-          }
+          },
+          "first_seen": "2026-08-28T20:58:25.432Z"
         },
         {
           "node_type": "item",
@@ -2143,7 +2280,8 @@
             "owner": "falconry",
             "repo": "falcon",
             "stars": 9795
-          }
+          },
+          "first_seen": "2026-08-28T20:58:25.432Z"
         },
         {
           "node_type": "item",
@@ -2157,8 +2295,9 @@
             "last_commit": "2026-08-26T17:54:56Z",
             "owner": "fastapi",
             "repo": "fastapi",
-            "stars": 101885
-          }
+            "stars": 101908
+          },
+          "first_seen": "2026-08-28T20:58:25.432Z"
         },
         {
           "node_type": "item",
@@ -2172,8 +2311,9 @@
             "last_commit": "2026-08-16T18:35:35Z",
             "owner": "pallets",
             "repo": "flask",
-            "stars": 72145
-          }
+            "stars": 72144
+          },
+          "first_seen": "2026-08-28T20:58:25.432Z"
         },
         {
           "node_type": "item",
@@ -2188,7 +2328,8 @@
             "owner": "toastdriven",
             "repo": "itty",
             "stars": 409
-          }
+          },
+          "first_seen": "2026-08-28T20:58:25.432Z"
         },
         {
           "node_type": "item",
@@ -2203,7 +2344,8 @@
             "owner": "twisted",
             "repo": "klein",
             "stars": 838
-          }
+          },
+          "first_seen": "2026-08-28T20:58:25.432Z"
         },
         {
           "node_type": "item",
@@ -2218,7 +2360,8 @@
             "owner": "morepath",
             "repo": "morepath",
             "stars": 396
-          }
+          },
+          "first_seen": "2026-08-28T20:58:25.432Z"
         },
         {
           "node_type": "item",
@@ -2233,7 +2376,8 @@
             "owner": "abramisola",
             "repo": "ObjectWeb",
             "stars": 29
-          }
+          },
+          "first_seen": "2026-08-28T20:58:25.432Z"
         },
         {
           "node_type": "item",
@@ -2248,7 +2392,8 @@
             "owner": "stackforge",
             "repo": "pecan",
             "stars": 150
-          }
+          },
+          "first_seen": "2026-08-28T20:58:25.432Z"
         },
         {
           "node_type": "item",
@@ -2263,7 +2408,8 @@
             "owner": "Pylons",
             "repo": "pyramid",
             "stars": 4095
-          }
+          },
+          "first_seen": "2026-08-28T20:58:25.432Z"
         },
         {
           "node_type": "item",
@@ -2277,8 +2423,9 @@
             "last_commit": "2026-07-29T03:09:51Z",
             "owner": "sanic-org",
             "repo": "sanic",
-            "stars": 18645
-          }
+            "stars": 18646
+          },
+          "first_seen": "2026-08-28T20:58:25.432Z"
         },
         {
           "node_type": "item",
@@ -2292,8 +2439,9 @@
             "last_commit": "2026-08-24T19:01:07Z",
             "owner": "tornadoweb",
             "repo": "tornado",
-            "stars": 22180
-          }
+            "stars": 22179
+          },
+          "first_seen": "2026-08-28T20:58:25.432Z"
         },
         {
           "node_type": "item",
@@ -2308,7 +2456,8 @@
             "owner": "0x67757300",
             "repo": "uHTTP",
             "stars": 107
-          }
+          },
+          "first_seen": "2026-08-28T20:58:25.432Z"
         },
         {
           "node_type": "item",
@@ -2323,7 +2472,8 @@
             "owner": "webpy",
             "repo": "webpy",
             "stars": 5921
-          }
+          },
+          "first_seen": "2026-08-28T20:58:25.432Z"
         }
       ],
       "title": "Web framework for Python"
@@ -2344,7 +2494,8 @@
             "owner": "luislavena",
             "repo": "brooklyn",
             "stars": 23
-          }
+          },
+          "first_seen": "2026-08-28T20:58:25.432Z"
         },
         {
           "node_type": "item",
@@ -2359,7 +2510,8 @@
             "owner": "pachacamac",
             "repo": "busker",
             "stars": 164
-          }
+          },
+          "first_seen": "2026-08-28T20:58:25.432Z"
         },
         {
           "node_type": "item",
@@ -2374,7 +2526,8 @@
             "owner": "camping",
             "repo": "camping",
             "stars": 986
-          }
+          },
+          "first_seen": "2026-08-28T20:58:25.432Z"
         },
         {
           "node_type": "item",
@@ -2389,7 +2542,8 @@
             "owner": "soveran",
             "repo": "cuba",
             "stars": 1447
-          }
+          },
+          "first_seen": "2026-08-28T20:58:25.432Z"
         },
         {
           "node_type": "item",
@@ -2403,8 +2557,9 @@
             "last_commit": "2019-04-29T15:20:09Z",
             "owner": "Shopify",
             "repo": "dashing",
-            "stars": 10907
-          }
+            "stars": 10906
+          },
+          "first_seen": "2026-08-28T20:58:25.432Z"
         },
         {
           "node_type": "item",
@@ -2415,11 +2570,12 @@
             "archived": false,
             "id": 812393,
             "language": "Ruby",
-            "last_commit": "2026-08-24T08:08:24Z",
+            "last_commit": "2026-08-27T22:04:39Z",
             "owner": "ruby-grape",
             "repo": "grape",
-            "stars": 10004
-          }
+            "stars": 10005
+          },
+          "first_seen": "2026-08-28T20:58:25.432Z"
         },
         {
           "node_type": "item",
@@ -2434,7 +2590,8 @@
             "owner": "crepe",
             "repo": "crepe",
             "stars": 128
-          }
+          },
+          "first_seen": "2026-08-28T20:58:25.432Z"
         },
         {
           "node_type": "item",
@@ -2449,7 +2606,8 @@
             "owner": "stephencelis",
             "repo": "crepe",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-28T20:58:25.432Z"
         },
         {
           "node_type": "item",
@@ -2464,7 +2622,8 @@
             "owner": "hanami",
             "repo": "hanami",
             "stars": 6407
-          }
+          },
+          "first_seen": "2026-08-28T20:58:25.432Z"
         },
         {
           "node_type": "item",
@@ -2479,7 +2638,8 @@
             "owner": "patriciomacadden",
             "repo": "hobbit",
             "stars": 272
-          }
+          },
+          "first_seen": "2026-08-28T20:58:25.432Z"
         },
         {
           "node_type": "item",
@@ -2490,11 +2650,12 @@
             "archived": false,
             "id": 39947871,
             "language": "Ruby",
-            "last_commit": "2026-08-27T12:35:54Z",
+            "last_commit": "2026-08-28T16:51:54Z",
             "owner": "karafka",
             "repo": "karafka",
             "stars": 2256
-          }
+          },
+          "first_seen": "2026-08-28T20:58:25.432Z"
         },
         {
           "node_type": "item",
@@ -2509,7 +2670,8 @@
             "owner": "kballenegger",
             "repo": "Kenji",
             "stars": 32
-          }
+          },
+          "first_seen": "2026-08-28T20:58:25.432Z"
         },
         {
           "node_type": "item",
@@ -2524,7 +2686,8 @@
             "owner": "kballenegger",
             "repo": "Kenji",
             "stars": 32
-          }
+          },
+          "first_seen": "2026-08-28T20:58:25.432Z"
         },
         {
           "node_type": "item",
@@ -2539,7 +2702,8 @@
             "owner": "hanami",
             "repo": "hanami",
             "stars": 6407
-          }
+          },
+          "first_seen": "2026-08-28T20:58:25.432Z"
         },
         {
           "node_type": "item",
@@ -2554,7 +2718,8 @@
             "owner": "guilleiguaran",
             "repo": "nancy",
             "stars": 84
-          }
+          },
+          "first_seen": "2026-08-28T20:58:25.432Z"
         },
         {
           "node_type": "item",
@@ -2569,7 +2734,8 @@
             "owner": "alisnic",
             "repo": "nyny",
             "stars": 317
-          }
+          },
+          "first_seen": "2026-08-28T20:58:25.432Z"
         },
         {
           "node_type": "item",
@@ -2584,7 +2750,8 @@
             "owner": "padrino",
             "repo": "padrino-framework",
             "stars": 3399
-          }
+          },
+          "first_seen": "2026-08-28T20:58:25.432Z"
         },
         {
           "node_type": "item",
@@ -2598,8 +2765,9 @@
             "last_commit": "2026-08-14T02:48:06Z",
             "owner": "rack",
             "repo": "rack",
-            "stars": 5128
-          }
+            "stars": 5129
+          },
+          "first_seen": "2026-08-28T20:58:25.432Z"
         },
         {
           "node_type": "item",
@@ -2614,7 +2782,8 @@
             "owner": "Ramaze",
             "repo": "ramaze",
             "stars": 370
-          }
+          },
+          "first_seen": "2026-08-28T20:58:25.432Z"
         },
         {
           "node_type": "item",
@@ -2628,8 +2797,9 @@
             "last_commit": "2026-07-20T09:59:21Z",
             "owner": "sinatra",
             "repo": "sinatra",
-            "stars": 12450
-          }
+            "stars": 12449
+          },
+          "first_seen": "2026-08-28T20:58:25.432Z"
         },
         {
           "node_type": "item",
@@ -2644,7 +2814,8 @@
             "owner": "trailblazer",
             "repo": "trailblazer",
             "stars": 3477
-          }
+          },
+          "first_seen": "2026-08-28T20:58:25.432Z"
         },
         {
           "node_type": "item",
@@ -2659,7 +2830,8 @@
             "owner": "voltrb",
             "repo": "volt",
             "stars": 3195
-          }
+          },
+          "first_seen": "2026-08-28T20:58:25.432Z"
         }
       ],
       "title": "Web framework for Ruby"
@@ -2680,7 +2852,8 @@
             "owner": "twitter",
             "repo": "finatra",
             "stars": 2272
-          }
+          },
+          "first_seen": "2026-08-28T20:58:25.432Z"
         },
         {
           "node_type": "item",
@@ -2695,7 +2868,8 @@
             "owner": "playframework",
             "repo": "playframework",
             "stars": 12621
-          }
+          },
+          "first_seen": "2026-08-28T20:58:25.432Z"
         },
         {
           "node_type": "item",
@@ -2706,11 +2880,12 @@
             "archived": false,
             "id": 214710,
             "language": "Scala",
-            "last_commit": "2026-08-22T02:06:10Z",
+            "last_commit": "2026-08-27T23:42:49Z",
             "owner": "scalatra",
             "repo": "scalatra",
             "stars": 2650
-          }
+          },
+          "first_seen": "2026-08-28T20:58:25.432Z"
         },
         {
           "node_type": "item",
@@ -2725,7 +2900,8 @@
             "owner": "spray",
             "repo": "spray",
             "stars": 2493
-          }
+          },
+          "first_seen": "2026-08-28T20:58:25.432Z"
         }
       ],
       "title": "Web framework for Scala"
@@ -2746,7 +2922,8 @@
             "owner": "frankhale",
             "repo": "Aurora",
             "stars": 8
-          }
+          },
+          "first_seen": "2026-08-28T20:58:25.432Z"
         },
         {
           "node_type": "item",
@@ -2761,7 +2938,8 @@
             "owner": "firesharkstudios",
             "repo": "butterfly-server",
             "stars": 273
-          }
+          },
+          "first_seen": "2026-08-28T20:58:25.432Z"
         },
         {
           "node_type": "item",
@@ -2776,14 +2954,15 @@
             "owner": "NancyFx",
             "repo": "Nancy",
             "stars": 7094
-          }
+          },
+          "first_seen": "2026-08-28T20:58:25.432Z"
         }
       ],
       "title": "Web framework for .NET (C#)"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T19:56:30.649Z",
+    "last_updated": "2026-08-28T20:58:25.432Z",
     "original_repository_info": {
       "archived": false,
       "id": 15118599,
