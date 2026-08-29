@@ -10,12 +10,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Superclean, powerful, responsive, Sass-based, BEM-syntax CSS grid system",
+            "homepage": "http://colourgarden.github.io/avalanche/",
             "id": 46807795,
             "language": "CSS",
+            "license": "MIT",
             "last_commit": "2021-06-24T10:25:44Z",
+            "open_issues": 7,
             "owner": "colourgarden",
             "repo": "avalanche",
-            "stars": 620
+            "stars": 620,
+            "topics": [
+              "bem",
+              "css",
+              "grid-layout",
+              "sass",
+              "scss"
+            ]
           },
           "first_seen": "2026-08-28T20:58:25.432Z"
         },
@@ -26,12 +37,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Base - A Rock Solid, Responsive CSS Framework built to work on all devices big, small and in-between.",
+            "homepage": "http://getbase.org",
             "id": 3072953,
             "language": "HTML",
+            "license": null,
             "last_commit": "2026-03-22T08:25:46Z",
+            "open_issues": 1,
             "owner": "getbase",
             "repo": "base",
-            "stars": 1324
+            "stars": 1324,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:58:25.432Z"
         },
@@ -42,12 +58,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Low-level CSS Toolkit – the original Functional/Utility/Atomic CSS library",
+            "homepage": "https://basscss.com",
             "id": 13707204,
             "language": "CSS",
+            "license": "MIT",
             "last_commit": "2022-12-30T17:37:47Z",
+            "open_issues": 39,
             "owner": "basscss",
             "repo": "basscss",
-            "stars": 5898
+            "stars": 5898,
+            "topics": [
+              "atomic-css",
+              "basscss",
+              "css",
+              "design-system",
+              "functional-css",
+              "oocss",
+              "utility",
+              "utility-css"
+            ]
           },
           "first_seen": "2026-08-28T20:58:25.432Z"
         },
@@ -58,12 +88,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A small (Less than 2kb) CSS framework",
+            "homepage": "http://andhart.github.io/bijou/",
             "id": 15436675,
             "language": "HTML",
+            "license": "MIT",
             "last_commit": "2017-06-19T21:07:15Z",
+            "open_issues": 3,
             "owner": "andhart",
             "repo": "bijou",
-            "stars": 600
+            "stars": 600,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:58:25.432Z"
         },
@@ -74,12 +109,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "testing hackerone",
+            "homepage": null,
             "id": 1042926076,
             "language": null,
+            "license": null,
             "last_commit": "2025-08-22T20:12:03Z",
+            "open_issues": 0,
             "owner": "BlazeCSS",
             "repo": "blaze",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:58:25.432Z"
         },
@@ -90,12 +130,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A modular, “mobile-first” CSS framework built with performance and scalability in mind.",
+            "homepage": "http://cardinalcss.com",
             "id": 6481005,
             "language": "CSS",
+            "license": "MIT",
             "last_commit": "2019-05-21T15:35:38Z",
+            "open_issues": 0,
             "owner": "cardinalcss",
             "repo": "cardinalcss",
-            "stars": 708
+            "stars": 708,
+            "topics": [
+              "css",
+              "css-framework"
+            ]
           },
           "first_seen": "2026-08-28T20:58:25.432Z"
         },
@@ -106,12 +154,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Cascade Framework",
+            "homepage": null,
             "id": 8365980,
             "language": "HTML",
+            "license": "NOASSERTION",
             "last_commit": "2021-05-13T13:09:11Z",
+            "open_issues": 6,
             "owner": "jslegers",
             "repo": "cascadeframework",
-            "stars": 275
+            "stars": 275,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:58:25.432Z"
         },
@@ -122,12 +175,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Cascade Framework Light",
+            "homepage": null,
             "id": 11206918,
             "language": "HTML",
+            "license": null,
             "last_commit": "2021-05-13T13:15:54Z",
+            "open_issues": 1,
             "owner": "jslegers",
             "repo": "cascadeframeworklight",
-            "stars": 22
+            "stars": 22,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:58:25.432Z"
         },
@@ -138,12 +196,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A CSS framework that's lightweight and easy-to-use. Give up the bloat. Stop tripping over your classes. Be Concise.",
+            "homepage": "http://concisecss.com",
             "id": 20370985,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2023-04-15T20:07:42Z",
+            "open_issues": 8,
             "owner": "ConciseCSS",
             "repo": "concise.css",
-            "stars": 931
+            "stars": 931,
+            "topics": [
+              "css",
+              "design",
+              "framework",
+              "minimalist",
+              "postcss",
+              "sass"
+            ]
           },
           "first_seen": "2026-08-28T20:58:25.432Z"
         },
@@ -154,12 +224,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A simple, responsive, grid framework.",
+            "homepage": null,
             "id": 13772250,
             "language": "CSS",
+            "license": "MIT",
             "last_commit": "2016-03-07T06:58:17Z",
+            "open_issues": 0,
             "owner": "davidlumley",
             "repo": "concrete",
-            "stars": 42
+            "stars": 42,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:58:25.432Z"
         },
@@ -170,12 +245,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Simple and light responsive grid system",
+            "homepage": null,
             "id": 15023622,
             "language": null,
+            "license": null,
             "last_commit": "2021-10-09T11:29:52Z",
+            "open_issues": 0,
             "owner": "html5-ninja",
             "repo": "icecream",
-            "stars": 61
+            "stars": 61,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:58:25.432Z"
         },
@@ -186,12 +266,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Styles CSS sur-vitaminés pour éléments HTML natifs",
+            "homepage": "http://www.knacss.com",
             "id": 9127684,
             "language": "CSS",
+            "license": "WTFPL",
             "last_commit": "2026-07-02T12:39:26Z",
+            "open_issues": 2,
             "owner": "alsacreations",
             "repo": "KNACSS",
-            "stars": 556
+            "stars": 556,
+            "topics": [
+              "css",
+              "framework",
+              "frontend",
+              "html"
+            ]
           },
           "first_seen": "2026-08-28T20:58:25.432Z"
         },
@@ -202,12 +292,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "SCSS Utilities for websites, apps and web applications",
+            "homepage": "https://lesli.dev/css",
             "id": 23301073,
             "language": "SCSS",
+            "license": "GPL-3.0",
             "last_commit": "2026-07-04T20:09:29Z",
+            "open_issues": 0,
             "owner": "LesliTech",
             "repo": "lesli-css",
-            "stars": 1
+            "stars": 1,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:58:25.432Z"
         },
@@ -218,12 +313,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A minimalist CSS framework.",
+            "homepage": "https://milligram.io",
             "id": 47775741,
             "language": "HTML",
+            "license": "MIT",
             "last_commit": "2023-10-31T16:35:52Z",
+            "open_issues": 124,
             "owner": "milligram",
             "repo": "milligram",
-            "stars": 10216
+            "stars": 10216,
+            "topics": [
+              "amp",
+              "css",
+              "css-framework",
+              "design",
+              "flexbox",
+              "framework",
+              "hacktoberfest",
+              "html",
+              "milligram",
+              "minimalist"
+            ]
           },
           "first_seen": "2026-08-28T20:58:25.432Z"
         },
@@ -234,12 +345,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "the world's smallest (995 bytes) CSS framework",
+            "homepage": "http://mincss.com",
             "id": 10068074,
             "language": "HTML",
+            "license": null,
             "last_commit": "2023-08-04T16:34:00Z",
+            "open_issues": 9,
             "owner": "owenversteeg",
             "repo": "min",
-            "stars": 1201
+            "stars": 1201,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:58:25.432Z"
         },
@@ -250,12 +366,28 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "A minimal, responsive, style-agnostic CSS framework!",
+            "homepage": "https://chalarangelo.github.io/mini.css",
             "id": 66245850,
             "language": "CSS",
+            "license": "MIT",
             "last_commit": "2022-04-04T14:51:07Z",
+            "open_issues": 11,
             "owner": "Chalarangelo",
             "repo": "mini.css",
-            "stars": 2947
+            "stars": 2947,
+            "topics": [
+              "css",
+              "css-framework",
+              "framework",
+              "front-end",
+              "frontend",
+              "mini",
+              "responsive",
+              "sass",
+              "sass-framework",
+              "web-development"
+            ]
           },
           "first_seen": "2026-08-28T20:58:25.432Z"
         },
@@ -266,12 +398,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "MVP.css — Minimalist classless CSS stylesheet for HTML elements",
+            "homepage": "https://andybrewer.github.io/mvp/",
             "id": 243309872,
             "language": "HTML",
+            "license": "MIT",
             "last_commit": "2026-02-27T18:01:09Z",
+            "open_issues": 0,
             "owner": "andybrewer",
             "repo": "mvp",
-            "stars": 5129
+            "stars": 5129,
+            "topics": [
+              "classless",
+              "classless-css",
+              "css",
+              "cssframework",
+              "semantic-ui"
+            ]
           },
           "first_seen": "2026-08-28T20:58:25.432Z"
         },
@@ -282,12 +425,22 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": ":pencil: A simple CSS prototyping framework",
+            "homepage": "https://zlatanvasovic.github.io/mistype",
             "id": 12306307,
             "language": "HTML",
+            "license": "MIT",
             "last_commit": "2020-09-10T11:04:45Z",
+            "open_issues": 0,
             "owner": "zlatanvasovic",
             "repo": "mistype",
-            "stars": 18
+            "stars": 18,
+            "topics": [
+              "css",
+              "css-prototyping-framework",
+              "html5",
+              "minimal"
+            ]
           },
           "first_seen": "2026-08-28T20:58:25.432Z"
         },
@@ -298,12 +451,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Minimal CSS Framework for semantic HTML",
+            "homepage": "https://picocss.com",
             "id": 221892711,
             "language": "CSS",
+            "license": "MIT",
             "last_commit": "2026-05-09T18:16:06Z",
+            "open_issues": 124,
             "owner": "picocss",
             "repo": "pico",
-            "stars": 16824
+            "stars": 16825,
+            "topics": [
+              "css",
+              "css-framework",
+              "dark-mode",
+              "dark-theme",
+              "lightweight",
+              "minimal",
+              "minimalist",
+              "minimalistic",
+              "native-html",
+              "scss",
+              "scss-framework",
+              "semantic"
+            ]
           },
           "first_seen": "2026-08-28T20:58:25.432Z"
         },
@@ -314,12 +485,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":handbag: A beautiful CSS library to kickstart your projects",
+            "homepage": "http://picnicss.com/",
             "id": 23630882,
             "language": "CSS",
+            "license": "MIT",
             "last_commit": "2024-10-03T17:55:24Z",
+            "open_issues": 16,
             "owner": "franciscop",
             "repo": "picnic",
-            "stars": 3881
+            "stars": 3881,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:58:25.432Z"
         },
@@ -330,12 +506,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "PocketGrid is a lightweight pure CSS grid system for Responsive Web Design. Moreover, it is semantic, mobile-first, and allows to have an unlimited number of columns and breakpoints.",
+            "homepage": "http://arnaudleray.github.io/pocketgrid/",
             "id": 8932037,
             "language": "CSS",
+            "license": "MIT",
             "last_commit": "2015-09-05T02:28:20Z",
+            "open_issues": 8,
             "owner": "arnaudleray",
             "repo": "pocketgrid",
-            "stars": 322
+            "stars": 322,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:58:25.432Z"
         },
@@ -346,12 +527,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A set of small, responsive CSS modules that you can use in every web project.",
+            "homepage": "http://purecss.io/",
             "id": 9603240,
             "language": "JavaScript",
+            "license": "NOASSERTION",
             "last_commit": "2026-02-14T03:48:55Z",
+            "open_issues": 30,
             "owner": "pure-css",
             "repo": "pure",
-            "stars": 23726
+            "stars": 23726,
+            "topics": [
+              "css",
+              "html",
+              "pure"
+            ]
           },
           "first_seen": "2026-08-28T20:58:25.432Z"
         },
@@ -362,12 +552,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Build your website with RocketCSS; a powerful open source CSS framework.",
+            "homepage": "http://rocketcss.org",
             "id": 10966940,
             "language": "CSS",
+            "license": "MIT",
             "last_commit": "2018-07-21T20:18:09Z",
+            "open_issues": 1,
             "owner": "RocketCSS",
             "repo": "RocketCSS",
-            "stars": 18
+            "stars": 18,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:58:25.432Z"
         },
@@ -378,12 +573,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A basic responsive grid for winners. This project is based on Chris Coyier's post on grids http://css-tricks.com/dont-overthink-it-grids/",
+            "homepage": null,
             "id": 6174666,
             "language": "HTML",
+            "license": null,
             "last_commit": "2022-07-25T12:22:32Z",
+            "open_issues": 21,
             "owner": "ThisIsDallas",
             "repo": "Simple-Grid",
-            "stars": 1612
+            "stars": 1612,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:58:25.432Z"
         },
@@ -394,12 +594,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Skeleton: A Dead Simple, Responsive Boilerplate for Mobile-Friendly Development",
+            "homepage": "http://www.getskeleton.com",
             "id": 1685764,
             "language": "CSS",
+            "license": "MIT",
             "last_commit": "2023-11-14T19:22:32Z",
+            "open_issues": 138,
             "owner": "dhg",
             "repo": "Skeleton",
-            "stars": 19380
+            "stars": 19380,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:58:25.432Z"
         },
@@ -410,12 +615,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 719942797,
             "language": "Svelte",
+            "license": "NOASSERTION",
             "last_commit": "2025-07-03T16:18:55Z",
+            "open_issues": 4,
             "owner": "Rezi",
             "repo": "sugar-css",
-            "stars": 48
+            "stars": 48,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:58:25.432Z"
         },
@@ -426,12 +636,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Functional css for humans",
+            "homepage": "https://tachyons.io",
             "id": 14106970,
             "language": "CSS",
+            "license": "MIT",
             "last_commit": "2026-07-20T15:11:15Z",
+            "open_issues": 90,
             "owner": "tachyons-css",
             "repo": "tachyons",
-            "stars": 11718
+            "stars": 11718,
+            "topics": [
+              "css",
+              "design",
+              "design-patterns",
+              "design-systems",
+              "design-tools",
+              "frontend",
+              "functional-css",
+              "html",
+              "responsive"
+            ]
           },
           "first_seen": "2026-08-28T20:58:25.432Z"
         },
@@ -442,12 +667,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A utility-first CSS framework for rapid UI development.",
+            "homepage": "https://tailwindcss.com/",
             "id": 106017343,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-14T19:43:34Z",
+            "open_issues": 61,
             "owner": "tailwindlabs",
             "repo": "tailwindcss",
-            "stars": 97370
+            "stars": 97375,
+            "topics": [
+              "css",
+              "css-framework",
+              "functional-css",
+              "postcss",
+              "responsive",
+              "tailwindcss",
+              "utility-classes"
+            ]
           },
           "first_seen": "2026-08-28T20:58:25.432Z"
         },
@@ -458,12 +696,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🍞 A highly-customizable, responsive (S)CSS grid",
+            "homepage": "http://daneden.github.io/Toast",
             "id": 2820033,
             "language": "CSS",
+            "license": "MIT",
             "last_commit": "2018-12-15T20:22:20Z",
+            "open_issues": 12,
             "owner": "daneden",
             "repo": "Toast",
-            "stars": 1993
+            "stars": 1993,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:58:25.432Z"
         },
@@ -474,12 +717,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":gem: A beautiful CSS framework designed for minimalists.",
+            "homepage": "https://kbrsh.github.io/wing",
             "id": 59957261,
             "language": "CSS",
+            "license": "MIT",
             "last_commit": "2020-05-02T01:56:56Z",
+            "open_issues": 11,
             "owner": "kbrsh",
             "repo": "wing",
-            "stars": 1996
+            "stars": 1996,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:58:25.432Z"
         },
@@ -490,12 +738,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "YAML (Yet Another Multicolumn Layout) is a modular CSS framework for truly flexible, accessible and responsive websites. It is based on Sass and has a very slim framework core that weights only ~6kB.",
+            "homepage": "http://www.yaml.de",
             "id": 10628091,
             "language": "CSS",
+            "license": "NOASSERTION",
             "last_commit": "2022-05-04T08:29:29Z",
+            "open_issues": 13,
             "owner": "yamlcss",
             "repo": "yaml",
-            "stars": 283
+            "stars": 283,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:58:25.432Z"
         }
@@ -512,12 +765,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Funny, and simple HTTP Server DSL written entirely in C",
+            "homepage": null,
             "id": 1159285,
             "language": "C",
+            "license": null,
             "last_commit": "2023-02-17T08:53:03Z",
+            "open_issues": 0,
             "owner": "gabrielfalcao",
             "repo": "go-horse",
-            "stars": 43
+            "stars": 43,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:58:25.432Z"
         },
@@ -528,12 +786,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[DEPRECATED] A web framework for C.",
+            "homepage": null,
             "id": 1567541,
             "language": "C",
+            "license": "LGPL-3.0",
             "last_commit": "2012-02-04T15:52:02Z",
+            "open_issues": 6,
             "owner": "danielwaterworth",
             "repo": "Raphters",
-            "stars": 1275
+            "stars": 1275,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:58:25.432Z"
         }
@@ -550,12 +813,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "micro activerecord library in PHP(only 400 lines with comments), support chain calls and relations(HAS_ONE, HAS_MANY, BELONGS_TO).",
+            "homepage": "https://bephp.github.io/activerecord/",
             "id": 14709844,
             "language": "PHP",
+            "license": null,
             "last_commit": "2018-03-01T09:47:04Z",
+            "open_issues": 1,
             "owner": "bephp",
             "repo": "activerecord",
-            "stars": 116
+            "stars": 116,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:58:25.432Z"
         },
@@ -566,12 +834,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The class files for Flourish",
+            "homepage": "http://flourishlib.com",
             "id": 3973951,
             "language": "PHP",
+            "license": null,
             "last_commit": "2026-07-13T11:31:01Z",
+            "open_issues": 165,
             "owner": "flourishlib",
             "repo": "flourish-classes",
-            "stars": 183
+            "stars": 183,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:58:25.432Z"
         },
@@ -582,12 +855,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The lightweight PHP database framework to accelerate the development.",
+            "homepage": "https://medoo.in",
             "id": 9114826,
             "language": "PHP",
+            "license": "MIT",
             "last_commit": "2026-08-22T04:27:15Z",
+            "open_issues": 50,
             "owner": "catfan",
             "repo": "Medoo",
-            "stars": 4949
+            "stars": 4949,
+            "topics": [
+              "composer",
+              "database",
+              "medoo",
+              "mssql",
+              "mysql",
+              "php",
+              "php-database-framework",
+              "php-framework",
+              "php-frameworks",
+              "postgresql",
+              "sql",
+              "sqlite"
+            ]
           },
           "first_seen": "2026-08-28T20:58:25.432Z"
         },
@@ -598,12 +889,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "ORM layer that creates models, config and database on the fly",
+            "homepage": "https://www.redbeanphp.com",
             "id": 213238,
             "language": "PHP",
+            "license": null,
             "last_commit": "2026-07-09T20:22:44Z",
+            "open_issues": 2,
             "owner": "gabordemooij",
             "repo": "redbean",
-            "stars": 2315
+            "stars": 2315,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:58:25.432Z"
         },
@@ -614,12 +910,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "NotORM - PHP library for simple reading data from the database",
+            "homepage": "http://www.notorm.com/",
             "id": 633412,
             "language": "PHP",
+            "license": null,
             "last_commit": "2024-08-05T18:55:25Z",
+            "open_issues": 40,
             "owner": "vrana",
             "repo": "notorm",
-            "stars": 851
+            "stars": 851,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:58:25.432Z"
         },
@@ -630,12 +931,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An extensible micro-framework for PHP",
+            "homepage": "https://docs.flightphp.com",
             "id": 1549947,
             "language": "PHP",
+            "license": "MIT",
             "last_commit": "2026-08-23T21:11:40Z",
+            "open_issues": 6,
             "owner": "flightphp",
             "repo": "core",
-            "stars": 2884
+            "stars": 2884,
+            "topics": [
+              "flightphp",
+              "micro-framework",
+              "php",
+              "restful",
+              "restful-api"
+            ]
           },
           "first_seen": "2026-08-28T20:58:25.432Z"
         }
@@ -652,12 +964,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A rugged, minimal framework for composing JavaScript behavior in your markup. ",
+            "homepage": "https://alpinejs.dev",
             "id": 224663696,
             "language": "HTML",
+            "license": "MIT",
             "last_commit": "2026-08-28T20:29:05Z",
+            "open_issues": 5,
             "owner": "alpinejs",
             "repo": "alpine",
-            "stars": 31888
+            "stars": 31888,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:58:25.432Z"
         },
@@ -668,12 +985,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A scalable, event-driven JavaScript architecture for developing component-based applications.",
+            "homepage": null,
             "id": 2723064,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2017-04-17T03:56:25Z",
+            "open_issues": 39,
             "owner": "aurajs",
             "repo": "aura",
-            "stars": 2927
+            "stars": 2927,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:58:25.432Z"
         },
@@ -684,12 +1006,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":steam_locomotive::train: - sturdy 4kb frontend framework",
+            "homepage": "https://choo.io/",
             "id": 58482213,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-02-20T10:15:19Z",
+            "open_issues": 44,
             "owner": "choojs",
             "repo": "choo",
-            "stars": 6768
+            "stars": 6768,
+            "topics": [
+              "choo",
+              "dom",
+              "interface",
+              "minimal",
+              "modular",
+              "ui",
+              "unidirectional",
+              "vanilla"
+            ]
           },
           "first_seen": "2026-08-28T20:58:25.432Z"
         },
@@ -700,12 +1036,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A lightweight, mobile-first boilerplate for front-end web developers.",
+            "homepage": "http://cferdinandi.github.io/kraken",
             "id": 8079423,
             "language": "HTML",
+            "license": "MIT",
             "last_commit": "2025-07-28T18:10:52Z",
+            "open_issues": 6,
             "owner": "cferdinandi",
             "repo": "kraken",
-            "stars": 809
+            "stars": 809,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:58:25.432Z"
         },
@@ -716,12 +1057,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Tiny, robust web framework in my taste.",
+            "homepage": "https://l3p3.de/dok/lui.html",
             "id": 311362151,
             "language": "JavaScript",
+            "license": "Zlib",
             "last_commit": "2026-07-24T17:49:56Z",
+            "open_issues": 7,
             "owner": "L3P3",
             "repo": "lui",
-            "stars": 17
+            "stars": 17,
+            "topics": [
+              "framework",
+              "functional",
+              "html",
+              "javascript",
+              "webframework"
+            ]
           },
           "first_seen": "2026-08-28T20:58:25.432Z"
         },
@@ -732,12 +1084,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🚀 Low-Tech Web-Components Made Lightweight & Future-Proof.",
+            "homepage": "https://lego.js.org",
             "id": 157021511,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-07-16T14:06:45Z",
+            "open_issues": 11,
             "owner": "Polight",
             "repo": "lego",
-            "stars": 149
+            "stars": 149,
+            "topics": [
+              "custom-elements",
+              "customelements",
+              "dom",
+              "es7",
+              "frontend",
+              "future-proof",
+              "html-modules",
+              "javascript",
+              "js-modules",
+              "native",
+              "polymer",
+              "reactive",
+              "reactjs",
+              "vanilla-js",
+              "virtual-dom",
+              "vuejs",
+              "w3c",
+              "web-components",
+              "web-standards",
+              "webcomponents"
+            ]
           },
           "first_seen": "2026-08-28T20:58:25.432Z"
         },
@@ -748,12 +1126,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Super minimal selector and event library",
+            "homepage": null,
             "id": 9473425,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2013-07-22T10:15:54Z",
+            "open_issues": 8,
             "owner": "remy",
             "repo": "min.js",
-            "stars": 1094
+            "stars": 1094,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:58:25.432Z"
         },
@@ -764,12 +1147,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A lightweight CoffeeScript library/DSL for reactive programming and declaratively building scalable web UIs",
+            "homepage": "http://bobtailjs.io",
             "id": 9539663,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2022-04-02T03:46:11Z",
+            "open_issues": 10,
             "owner": "bobtail-dev",
             "repo": "bobtail",
-            "stars": 262
+            "stars": 262,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:58:25.432Z"
         },
@@ -780,12 +1168,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":iphone: A super lightweight HTML, Sass, CSS, and JavaScript framework for building responsive websites",
+            "homepage": "http://responsivebp.com",
             "id": 10639547,
             "language": "HTML",
+            "license": "MIT",
             "last_commit": "2023-07-19T00:48:21Z",
+            "open_issues": 14,
             "owner": "ResponsiveBP",
             "repo": "Responsive",
-            "stars": 871
+            "stars": 871,
+            "topics": [
+              "accessibility",
+              "css",
+              "html5",
+              "javascript",
+              "responsive-grid",
+              "rwd",
+              "sass"
+            ]
           },
           "first_seen": "2026-08-28T20:58:25.432Z"
         },
@@ -796,12 +1197,24 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "scaleApp is a JavaScript framework for scalable and maintainable One-Page-Applications",
+            "homepage": "http://www.scaleapp.org/",
             "id": 1340006,
             "language": "CoffeeScript",
+            "license": "MIT",
             "last_commit": "2019-10-14T06:07:08Z",
+            "open_issues": 7,
             "owner": "flosse",
             "repo": "scaleApp",
-            "stars": 352
+            "stars": 352,
+            "topics": [
+              "coffeescript",
+              "event-driven",
+              "framework",
+              "javascript",
+              "onepage",
+              "unmaintained"
+            ]
           },
           "first_seen": "2026-08-28T20:58:25.432Z"
         },
@@ -812,12 +1225,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A lightweight responsive framework for the www",
+            "homepage": "http://skel.io",
             "id": 11247742,
             "language": "JavaScript",
+            "license": "NOASSERTION",
             "last_commit": "2018-06-13T22:09:37Z",
+            "open_issues": 27,
             "owner": "ajlkn",
             "repo": "skel",
-            "stars": 2202
+            "stars": 2202,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:58:25.432Z"
         },
@@ -828,12 +1246,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Lightweight MVC library for building JavaScript applications",
+            "homepage": "http://spine.github.io",
             "id": 1540246,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2020-04-04T23:20:46Z",
+            "open_issues": 36,
             "owner": "spine",
             "repo": "spine",
-            "stars": 3692
+            "stars": 3691,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:58:25.432Z"
         },
@@ -844,12 +1267,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "CSS for clean and fast web apps",
+            "homepage": "topcoat.io",
             "id": 6491715,
             "language": "HTML",
+            "license": "Apache-2.0",
             "last_commit": "2018-04-18T20:42:03Z",
+            "open_issues": 68,
             "owner": "topcoat",
             "repo": "topcoat",
-            "stars": 4241
+            "stars": 4240,
+            "topics": [
+              "css",
+              "ui-components"
+            ]
           },
           "first_seen": "2026-08-28T20:58:25.432Z"
         },
@@ -860,12 +1291,26 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Pure 100% java reactive-style client-side webpages with POJO traffic, jUnit GUI testing, declarative view-on-model, automatic browser reloading and more.",
+            "homepage": null,
             "id": 75275285,
             "language": "Java",
+            "license": "GPL-3.0",
             "last_commit": "2019-05-16T07:18:39Z",
+            "open_issues": 0,
             "owner": "nielsbaloe",
             "repo": "vertxui",
-            "stars": 124
+            "stars": 124,
+            "topics": [
+              "clientside",
+              "html5",
+              "java",
+              "java-lambda",
+              "junit",
+              "pojo",
+              "toolkit",
+              "vertx"
+            ]
           },
           "first_seen": "2026-08-28T20:58:25.432Z"
         }
@@ -882,12 +1327,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "beego is an open-source, high-performance web framework for the Go programming language.",
+            "homepage": "beego.me",
             "id": 321090371,
             "language": null,
+            "license": "NOASSERTION",
             "last_commit": "2022-04-27T07:57:04Z",
+            "open_issues": 0,
             "owner": "astaxie",
             "repo": "beego",
-            "stars": 742
+            "stars": 742,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:58:25.432Z"
         },
@@ -898,12 +1348,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "lightweight, idiomatic and composable router for building Go HTTP services",
+            "homepage": "https://go-chi.io",
             "id": 44344606,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2026-08-27T13:57:27Z",
+            "open_issues": 83,
             "owner": "go-chi",
             "repo": "chi",
-            "stars": 22743
+            "stars": 22743,
+            "topics": [
+              "api",
+              "context",
+              "go",
+              "golang",
+              "http",
+              "microservices",
+              "middleware",
+              "rest-api",
+              "router"
+            ]
           },
           "first_seen": "2026-08-28T20:58:25.432Z"
         },
@@ -914,12 +1379,31 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "High performance, minimalist Go web framework",
+            "homepage": "https://echo.labstack.com",
             "id": 31504491,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2026-08-24T09:10:55Z",
+            "open_issues": 28,
             "owner": "labstack",
             "repo": "echo",
-            "stars": 32669
+            "stars": 32669,
+            "topics": [
+              "echo",
+              "go",
+              "http2",
+              "https",
+              "labstack-echo",
+              "letsencrypt",
+              "micro-framework",
+              "microservice",
+              "middleware",
+              "ssl",
+              "web",
+              "web-framework",
+              "websocket"
+            ]
           },
           "first_seen": "2026-08-28T20:58:25.432Z"
         },
@@ -930,12 +1414,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Go Router + Middleware. Your Contexts.",
+            "homepage": null,
             "id": 14454569,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2020-10-01T09:54:18Z",
+            "open_issues": 24,
             "owner": "gocraft",
             "repo": "web",
-            "stars": 1524
+            "stars": 1524,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:58:25.432Z"
         },
@@ -946,12 +1435,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Classy web framework for Go",
+            "homepage": "martini.codegangsta.io",
             "id": 13975314,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2022-03-29T19:42:09Z",
+            "open_issues": 17,
             "owner": "go-martini",
             "repo": "martini",
-            "stars": 11598
+            "stars": 11598,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:58:25.432Z"
         },
@@ -962,12 +1456,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Sinatra inspired regexp/pattern mux and web framework for Go",
+            "homepage": null,
             "id": 12004328,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2019-10-22T06:25:14Z",
+            "open_issues": 1,
             "owner": "gravityblast",
             "repo": "traffic",
-            "stars": 519
+            "stars": 519,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:58:25.432Z"
         }
@@ -984,12 +1483,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Haskell web framework inspired by Ruby's Sinatra, using WAI and Warp (Official Repository)",
+            "homepage": "http://hackage.haskell.org/package/scotty",
             "id": 3077100,
             "language": "Haskell",
+            "license": "BSD-3-Clause",
             "last_commit": "2026-06-26T10:50:49Z",
+            "open_issues": 29,
             "owner": "scotty-web",
             "repo": "scotty",
-            "stars": 1776
+            "stars": 1776,
+            "topics": [
+              "rest",
+              "rest-api",
+              "web-framework"
+            ]
           },
           "first_seen": "2026-08-28T20:58:25.432Z"
         },
@@ -1000,12 +1508,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Top-level package for the official Snap Framework libraries, includes the snaplets API as well as infrastructure for sessions, auth, and templates.",
+            "homepage": "http://snapframework.com/",
             "id": 755385,
             "language": "Haskell",
+            "license": "BSD-3-Clause",
             "last_commit": "2026-04-08T01:27:34Z",
+            "open_issues": 32,
             "owner": "snapframework",
             "repo": "snap",
-            "stars": 460
+            "stars": 460,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:58:25.432Z"
         }
@@ -1022,12 +1535,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":rocket: Lightning fast and elegant mvc framework for Java8",
+            "homepage": "https://lets-blade.github.io",
             "id": 37173512,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2026-05-15T16:23:50Z",
+            "open_issues": 14,
             "owner": "lets-blade",
             "repo": "blade",
-            "stars": 5875
+            "stars": 5875,
+            "topics": [
+              "blade",
+              "java8",
+              "mvc-framework",
+              "netty4",
+              "restful",
+              "template-engine"
+            ]
           },
           "first_seen": "2026-08-28T20:58:25.432Z"
         },
@@ -1038,12 +1563,34 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A simple and modern Java and Kotlin vert.x web framework",
+            "homepage": "https://www.yuque.com/cloudopt/next/hp3mc1",
             "id": 117033346,
             "language": "Kotlin",
+            "license": "Apache-2.0",
             "last_commit": "2024-02-25T07:43:38Z",
+            "open_issues": 3,
             "owner": "cloudoptlab",
             "repo": "cloudopt-next",
-            "stars": 350
+            "stars": 350,
+            "topics": [
+              "cloudopt",
+              "framework",
+              "java",
+              "java-8",
+              "java-9",
+              "java-library",
+              "java-web",
+              "jfinal",
+              "kotlin",
+              "next",
+              "restful-api",
+              "resty",
+              "springboot",
+              "vert",
+              "vertx",
+              "web"
+            ]
           },
           "first_seen": "2026-08-28T20:58:25.432Z"
         },
@@ -1054,12 +1601,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A simple and modern Java and Kotlin web framework",
+            "homepage": "https://javalin.io",
             "id": 87012358,
             "language": "Kotlin",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-15T16:29:24Z",
+            "open_issues": 22,
             "owner": "javalin",
             "repo": "javalin",
-            "stars": 8342
+            "stars": 8342,
+            "topics": [
+              "hacktoberfest",
+              "java",
+              "javalin",
+              "jetty",
+              "kotlin",
+              "microservice",
+              "rest-api",
+              "servlet",
+              "web-framework"
+            ]
           },
           "first_seen": "2026-08-28T20:58:25.432Z"
         },
@@ -1070,12 +1632,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "JAVA WEB + ORM Framework",
+            "homepage": "https://jfinal.com",
             "id": 4134560,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-22T10:18:26Z",
+            "open_issues": 13,
             "owner": "jfinal",
             "repo": "jfinal",
-            "stars": 3269
+            "stars": 3269,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:58:25.432Z"
         },
@@ -1086,12 +1653,31 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Jodd! Lightweight. Java. Zero dependencies. Use what you like.",
+            "homepage": "https://jodd.org",
             "id": 5722043,
             "language": "Java",
+            "license": "BSD-2-Clause",
             "last_commit": "2024-04-15T19:08:00Z",
+            "open_issues": 2,
             "owner": "oblac",
             "repo": "jodd",
-            "stars": 4053
+            "stars": 4053,
+            "topics": [
+              "aop",
+              "database",
+              "html-parser",
+              "http-client",
+              "ioc",
+              "java",
+              "java8",
+              "jodd",
+              "jquery",
+              "json-parser",
+              "mail",
+              "micro-framework",
+              "utility-library"
+            ]
           },
           "first_seen": "2026-08-28T20:58:25.432Z"
         },
@@ -1102,12 +1688,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The modular web framework for Java and Kotlin",
+            "homepage": "https://jooby.io",
             "id": 25446835,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-24T14:32:52Z",
+            "open_issues": 5,
             "owner": "jooby-project",
             "repo": "jooby",
-            "stars": 1780
+            "stars": 1780,
+            "topics": [
+              "kotlin",
+              "micro-framework",
+              "microframework",
+              "modular",
+              "web-framework",
+              "webframework"
+            ]
           },
           "first_seen": "2026-08-28T20:58:25.432Z"
         },
@@ -1118,12 +1716,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The smallest rock-solid deeply-tested TDD-designed all-essentials-included non-magic zero-dependency minimalist Java web application framework",
+            "homepage": null,
             "id": 440010467,
             "language": "Java",
+            "license": "MIT",
             "last_commit": "2026-08-16T22:29:18Z",
+            "open_issues": 0,
             "owner": "byronka",
             "repo": "minum",
-            "stars": 664
+            "stars": 664,
+            "topics": [
+              "framework",
+              "java",
+              "minimalism",
+              "minimalist",
+              "tdd",
+              "web"
+            ]
           },
           "first_seen": "2026-08-28T20:58:25.432Z"
         },
@@ -1134,12 +1744,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An HTTP toolkit for fun and easy Java Web Development",
+            "homepage": "http://molecule.vtence.com",
             "id": 8221071,
             "language": "Java",
+            "license": "MIT",
             "last_commit": "2023-11-16T03:05:10Z",
+            "open_issues": 19,
             "owner": "testinfected",
             "repo": "molecule",
-            "stars": 31
+            "stars": 31,
+            "topics": [
+              "java",
+              "micro-framework",
+              "simple",
+              "undertow",
+              "web"
+            ]
           },
           "first_seen": "2026-08-28T20:58:25.432Z"
         },
@@ -1150,12 +1771,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Ninja is a full stack web framework for Java. Rock solid, fast and super productive.",
+            "homepage": "http://www.ninjaframework.org",
             "id": 4610430,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2026-04-03T18:40:39Z",
+            "open_issues": 125,
             "owner": "ninjaframework",
             "repo": "ninja",
-            "stars": 1902
+            "stars": 1902,
+            "topics": [
+              "java",
+              "ninja",
+              "ninjaframework",
+              "restful",
+              "webframework"
+            ]
           },
           "first_seen": "2026-08-28T20:58:25.432Z"
         },
@@ -1166,12 +1798,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Micro Java Web Framework",
+            "homepage": "https://pippo-java.github.io",
             "id": 25979437,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2025-12-22T17:58:42Z",
+            "open_issues": 64,
             "owner": "pippo-java",
             "repo": "pippo",
-            "stars": 787
+            "stars": 787,
+            "topics": [
+              "java",
+              "microservice",
+              "web"
+            ]
           },
           "first_seen": "2026-08-28T20:58:25.432Z"
         },
@@ -1182,12 +1823,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The first REST API framework for Java",
+            "homepage": "https://restlet.talend.com",
             "id": 2996995,
             "language": "Java",
+            "license": "NOASSERTION",
             "last_commit": "2026-07-23T20:40:48Z",
+            "open_issues": 537,
             "owner": "restlet",
             "repo": "restlet-framework-java",
-            "stars": 667
+            "stars": 667,
+            "topics": [
+              "framework",
+              "java",
+              "rest-api",
+              "restlet"
+            ]
           },
           "first_seen": "2026-08-28T20:58:25.432Z"
         },
@@ -1198,12 +1849,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "RESTX, the lightweight Java REST framework",
+            "homepage": "http://restx.io",
             "id": 9836833,
             "language": "Java",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-10T14:59:13Z",
+            "open_issues": 41,
             "owner": "restx",
             "repo": "restx",
-            "stars": 450
+            "stars": 450,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:58:25.432Z"
         },
@@ -1214,12 +1870,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The minimalist framework of RESTful(server and client) - Resty",
+            "homepage": null,
             "id": 28589035,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2021-11-05T02:19:42Z",
+            "open_issues": 5,
             "owner": "Dreampie",
             "repo": "Resty",
-            "stars": 1239
+            "stars": 1239,
+            "topics": [
+              "activerecord",
+              "httpclient",
+              "java",
+              "restful",
+              "server",
+              "web"
+            ]
           },
           "first_seen": "2026-08-28T20:58:25.432Z"
         },
@@ -1230,12 +1898,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A simple expressive web framework for java. Spark has a kotlin DSL https://github.com/perwendel/spark-kotlin",
+            "homepage": null,
             "id": 1705960,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2023-10-08T09:20:37Z",
+            "open_issues": 262,
             "owner": "perwendel",
             "repo": "spark",
-            "stars": 9644
+            "stars": 9644,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:58:25.432Z"
         },
@@ -1246,12 +1919,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Stapler web framework",
+            "homepage": null,
             "id": 1548514,
             "language": "Java",
+            "license": "BSD-2-Clause",
             "last_commit": "2026-08-24T11:08:11Z",
+            "open_issues": 50,
             "owner": "jenkinsci",
             "repo": "stapler",
-            "stars": 171
+            "stars": 171,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:58:25.432Z"
         }
@@ -1268,12 +1946,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "the Javascript MVC microframework that does just enough",
+            "homepage": "http://hay.github.io/stapes",
             "id": 3591317,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2019-05-01T18:40:23Z",
+            "open_issues": 1,
             "owner": "hay",
             "repo": "stapes",
-            "stars": 439
+            "stars": 439,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:58:25.432Z"
         },
@@ -1284,12 +1967,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A JavaScript Framework for Building Brilliant Applications",
+            "homepage": "https://mithril.js.org",
             "id": 17814354,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-08-13T09:35:51Z",
+            "open_issues": 26,
             "owner": "MithrilJS",
             "repo": "mithril.js",
-            "stars": 14493
+            "stars": 14493,
+            "topics": [
+              "framework",
+              "javascript",
+              "mithril",
+              "router",
+              "vdom",
+              "virtual-dom",
+              "xhr"
+            ]
           },
           "first_seen": "2026-08-28T20:58:25.432Z"
         },
@@ -1300,12 +1996,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":umbrella: Lightweight javascript library for DOM manipulation and events",
+            "homepage": "https://umbrellajs.com/",
             "id": 25541186,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-08-02T15:05:57Z",
+            "open_issues": 0,
             "owner": "franciscop",
             "repo": "umbrella",
-            "stars": 2345
+            "stars": 2345,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:58:25.432Z"
         },
@@ -1316,12 +2017,37 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🍦 VanJS: World's smallest reactive UI framework. Incredibly Powerful, Insanely Small - Everyone can build a useful UI app in an hour.",
+            "homepage": "https://vanjs.org",
             "id": 637646872,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-07-16T18:32:40Z",
+            "open_issues": 40,
             "owner": "vanjs-org",
             "repo": "van",
-            "stars": 4423
+            "stars": 4423,
+            "topics": [
+              "data-binding",
+              "dom",
+              "dom-manipulation",
+              "grab-n-go",
+              "lightweight",
+              "lightweight-framework",
+              "lightweight-javascript-library",
+              "minimalist",
+              "no-dependencies",
+              "no-setup",
+              "reactive",
+              "reactive-ui",
+              "ui-framework",
+              "ultra-light",
+              "ultra-thin",
+              "vanilla-dom-manipulation",
+              "vanilla-javascript",
+              "vanilla-js",
+              "vannilajs"
+            ]
           },
           "first_seen": "2026-08-28T20:58:25.432Z"
         }
@@ -1338,12 +2064,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A web framework for Lua and OpenResty written in MoonScript",
+            "homepage": "http://leafo.net/lapis/",
             "id": 6062770,
             "language": "MoonScript",
+            "license": "MIT",
             "last_commit": "2026-08-26T01:27:41Z",
+            "open_issues": 175,
             "owner": "leafo",
             "repo": "lapis",
-            "stars": 3339
+            "stars": 3339,
+            "topics": [
+              "lapis",
+              "lua",
+              "moonscript",
+              "openresty"
+            ]
           },
           "first_seen": "2026-08-28T20:58:25.432Z"
         },
@@ -1354,12 +2090,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An OpenResty Lua MVC Web Framework",
+            "homepage": "http://idevz.github.io/vanilla/",
             "id": 40606693,
             "language": "Perl",
+            "license": "MIT",
             "last_commit": "2019-01-09T05:09:42Z",
+            "open_issues": 3,
             "owner": "idevz",
             "repo": "vanilla",
-            "stars": 1038
+            "stars": 1038,
+            "topics": [
+              "lua",
+              "lua-mvc",
+              "luajit",
+              "mvc",
+              "openresty",
+              "vanilla",
+              "vanilla-dev",
+              "vanilla-openresty"
+            ]
           },
           "first_seen": "2026-08-28T20:58:25.432Z"
         }
@@ -1376,12 +2126,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "⚡️ The Missing Fullstack Toolkit for Next.js",
+            "homepage": "https://Blitzjs.com",
             "id": 241215865,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2025-11-21T13:13:37Z",
+            "open_issues": 86,
             "owner": "blitz-js",
             "repo": "blitz",
-            "stars": 14130
+            "stars": 14130,
+            "topics": [
+              "blitz",
+              "blitzjs",
+              "framework",
+              "fullstack",
+              "javascript",
+              "nextjs",
+              "prisma",
+              "prisma2",
+              "react",
+              "reactjs",
+              "typescript"
+            ]
           },
           "first_seen": "2026-08-28T20:58:25.432Z"
         },
@@ -1392,12 +2159,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Fast, unopinionated, minimalist web framework for node.",
+            "homepage": "https://expressjs.com",
             "id": 237159,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-08-22T21:00:02Z",
+            "open_issues": 228,
             "owner": "expressjs",
             "repo": "express",
-            "stars": 69401
+            "stars": 69400,
+            "topics": [
+              "express",
+              "javascript",
+              "nodejs",
+              "server"
+            ]
           },
           "first_seen": "2026-08-28T20:58:25.432Z"
         },
@@ -1408,12 +2185,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Web application framework for Node.js",
+            "homepage": "http://codekart.jojoin.com/",
             "id": 14037746,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2015-01-27T06:48:30Z",
+            "open_issues": 1,
             "owner": "jojoin",
             "repo": "Codekart",
-            "stars": 200
+            "stars": 200,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:58:25.432Z"
         },
@@ -1424,12 +2206,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Fast and low overhead web framework, for Node.js",
+            "homepage": "https://www.fastify.dev",
             "id": 69495170,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-08-23T18:19:15Z",
+            "open_issues": 145,
             "owner": "fastify",
             "repo": "fastify",
-            "stars": 37047
+            "stars": 37047,
+            "topics": [
+              "fastify",
+              "fastify-core",
+              "hacktoberfest",
+              "nodejs",
+              "performance",
+              "speed",
+              "webframework"
+            ]
           },
           "first_seen": "2026-08-28T20:58:25.432Z"
         },
@@ -1440,12 +2235,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The API and real-time application framework",
+            "homepage": "https://feathersjs.com",
             "id": 2609642,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-14T01:57:48Z",
+            "open_issues": 127,
             "owner": "feathersjs",
             "repo": "feathers",
-            "stars": 15265
+            "stars": 15265,
+            "topics": [
+              "browser",
+              "feathers",
+              "feathersjs",
+              "framework",
+              "javascript",
+              "nodejs",
+              "react-native",
+              "real-time",
+              "typescript"
+            ]
           },
           "first_seen": "2026-08-28T20:58:25.432Z"
         },
@@ -1456,12 +2266,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "framework components for node.js and the browser",
+            "homepage": "http://flatironjs.org",
             "id": 2278307,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2016-12-13T17:16:19Z",
+            "open_issues": 17,
             "owner": "flatiron",
             "repo": "flatiron",
-            "stars": 1321
+            "stars": 1321,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:58:25.432Z"
         },
@@ -1472,12 +2287,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The Simple, Secure Framework Developers Trust",
+            "homepage": "https://hapi.dev",
             "id": 2163263,
             "language": "JavaScript",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-19T16:27:14Z",
+            "open_issues": 57,
             "owner": "hapijs",
             "repo": "hapi",
-            "stars": 14793
+            "stars": 14793,
+            "topics": [
+              "application",
+              "framework",
+              "hapi",
+              "http",
+              "nodejs"
+            ]
           },
           "first_seen": "2026-08-28T20:58:25.432Z"
         },
@@ -1488,12 +2314,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Expressive middleware for node.js using ES2017 async functions",
+            "homepage": "https://koajs.com",
             "id": 11551538,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-08-26T03:22:12Z",
+            "open_issues": 40,
             "owner": "koajs",
             "repo": "koa",
-            "stars": 35690
+            "stars": 35690,
+            "topics": [
+              "koa"
+            ]
           },
           "first_seen": "2026-08-28T20:58:25.432Z"
         },
@@ -1504,12 +2337,32 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The simplest web framework and site generator yet – no bloat, no bundler, no client-side JS by default.",
+            "homepage": "https://mastrojs.github.io",
             "id": 739028147,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-23T19:14:27Z",
+            "open_issues": 7,
             "owner": "mastrojs",
             "repo": "mastro",
-            "stars": 186
+            "stars": 186,
+            "topics": [
+              "bun",
+              "deno",
+              "fullstack",
+              "mastrojs",
+              "mpa",
+              "no-build",
+              "no-dependencies",
+              "nobuild",
+              "nodejs",
+              "ssg",
+              "ssr",
+              "typescript",
+              "vscode-extension",
+              "web-framework"
+            ]
           },
           "first_seen": "2026-08-28T20:58:25.432Z"
         },
@@ -1520,12 +2373,32 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The simplest web framework and site generator yet – no bloat, no bundler, no client-side JS by default.",
+            "homepage": "https://mastrojs.github.io",
             "id": 739028147,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-23T19:14:27Z",
+            "open_issues": 7,
             "owner": "mastrojs",
             "repo": "mastro",
-            "stars": 186
+            "stars": 186,
+            "topics": [
+              "bun",
+              "deno",
+              "fullstack",
+              "mastrojs",
+              "mpa",
+              "no-build",
+              "no-dependencies",
+              "nobuild",
+              "nodejs",
+              "ssg",
+              "ssr",
+              "typescript",
+              "vscode-extension",
+              "web-framework"
+            ]
           },
           "first_seen": "2026-08-28T20:58:25.432Z"
         },
@@ -1536,12 +2409,33 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Full-stack CRUD, simplified, with SSOT TypeScript entities",
+            "homepage": "https://remult.dev",
             "id": 108873775,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-27T19:38:28Z",
+            "open_issues": 119,
             "owner": "remult",
             "repo": "remult",
-            "stars": 3208
+            "stars": 3209,
+            "topics": [
+              "angular",
+              "api",
+              "crud",
+              "express-middleware",
+              "fullstack",
+              "fullstack-typescript",
+              "jamstack",
+              "nextjs",
+              "orm",
+              "postgresql",
+              "react",
+              "rest",
+              "typescript",
+              "validation",
+              "vue"
+            ]
           },
           "first_seen": "2026-08-28T20:58:25.432Z"
         },
@@ -1552,12 +2446,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Total.js Framework v5 - one of the fastest and most versatile Node.js frameworks.",
+            "homepage": "https://www.totaljs.com",
             "id": 705385147,
             "language": "JavaScript",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-28T13:41:15Z",
+            "open_issues": 0,
             "owner": "totaljs",
             "repo": "framework5",
-            "stars": 19
+            "stars": 19,
+            "topics": [
+              "backend",
+              "framework",
+              "nodejs",
+              "totaljs"
+            ]
           },
           "first_seen": "2026-08-28T20:58:25.432Z"
         },
@@ -1568,12 +2472,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The future of Node.js REST development",
+            "homepage": "http://restify.com",
             "id": 1661758,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-08-25T16:49:47Z",
+            "open_issues": 130,
             "owner": "restify",
             "repo": "node-restify",
-            "stars": 10686
+            "stars": 10686,
+            "topics": [
+              "rest-api",
+              "restify",
+              "server"
+            ]
           },
           "first_seen": "2026-08-28T20:58:25.432Z"
         },
@@ -1584,12 +2497,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A framework for Realtime Web Apps",
+            "homepage": null,
             "id": 1254218,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2022-03-09T20:49:22Z",
+            "open_issues": 30,
             "owner": "socketstream",
             "repo": "socketstream",
-            "stars": 3516
+            "stars": 3516,
+            "topics": [
+              "nodejs",
+              "realtime"
+            ]
           },
           "first_seen": "2026-08-28T20:58:25.432Z"
         },
@@ -1600,12 +2521,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Realtime MVC Framework for Node.js",
+            "homepage": "https://sailsjs.com",
             "id": 3757512,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-05-27T22:29:55Z",
+            "open_issues": 589,
             "owner": "balderdashy",
             "repo": "sails",
-            "stars": 22805
+            "stars": 22805,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:58:25.432Z"
         }
@@ -1622,12 +2548,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The easiest way to write web applications with Perl (Perl web micro-framework)",
+            "homepage": "http://perldancer.org/",
             "id": 254239,
             "language": "Perl",
+            "license": null,
             "last_commit": "2026-04-13T21:18:08Z",
+            "open_issues": 86,
             "owner": "PerlDancer",
             "repo": "Dancer",
-            "stars": 725
+            "stars": 725,
+            "topics": [
+              "framework",
+              "perl",
+              "web"
+            ]
           },
           "first_seen": "2026-08-28T20:58:25.432Z"
         },
@@ -1638,12 +2573,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":sparkles: Mojolicious - Perl real-time web framework",
+            "homepage": "https://mojolicious.org",
             "id": 65646,
             "language": "Perl",
+            "license": "Artistic-2.0",
             "last_commit": "2026-08-09T23:59:08Z",
+            "open_issues": 106,
             "owner": "mojolicious",
             "repo": "mojo",
-            "stars": 2747
+            "stars": 2747,
+            "topics": [
+              "cloud-native",
+              "event-loop",
+              "html",
+              "http",
+              "json",
+              "mojolicious",
+              "mvc",
+              "perl",
+              "user-agent",
+              "web-framework",
+              "web-server",
+              "websocket"
+            ]
           },
           "first_seen": "2026-08-28T20:58:25.432Z"
         }
@@ -1660,12 +2613,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The kernel files for a web project.",
+            "homepage": null,
             "id": 14560305,
             "language": "PHP",
+            "license": "BSD-2-Clause",
             "last_commit": "2021-07-13T07:52:21Z",
+            "open_issues": 0,
             "owner": "auraphp",
             "repo": "Aura.Web_Kernel",
-            "stars": 24
+            "stars": 24,
+            "topics": [
+              "aura",
+              "dispatcher",
+              "kernel",
+              "php",
+              "router",
+              "web-kernel"
+            ]
           },
           "first_seen": "2026-08-28T20:58:25.432Z"
         },
@@ -1676,12 +2641,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A resource-oriented micro PHP framework",
+            "homepage": "http://bulletphp.com",
             "id": 4210155,
             "language": "PHP",
+            "license": "BSD-3-Clause",
             "last_commit": "2021-07-23T14:01:07Z",
+            "open_issues": 6,
             "owner": "vlucas",
             "repo": "bulletphp",
-            "stars": 415
+            "stars": 415,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:58:25.432Z"
         },
@@ -1692,12 +2662,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Toolkit to quickly build powerful mobile-friendly CRUD (create/read/update/delete) interfaces for PHP, Laravel, and Codeigniter apps. Works with MySQL and other databases.",
+            "homepage": "http://crudkit.com",
             "id": 34007203,
             "language": "PHP",
+            "license": "MIT",
             "last_commit": "2018-03-06T11:15:53Z",
+            "open_issues": 43,
             "owner": "skyronic",
             "repo": "crudkit",
-            "stars": 289
+            "stars": 289,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:58:25.432Z"
         },
@@ -1708,12 +2683,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "A PHP web micro-framework inspired by Ruby's Sinatra",
+            "homepage": null,
             "id": 2115516,
             "language": "PHP",
+            "license": "MIT",
             "last_commit": "2015-01-12T14:49:28Z",
+            "open_issues": 1,
             "owner": "colindean",
             "repo": "deano",
-            "stars": 26
+            "stars": 26,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:58:25.432Z"
         },
@@ -1724,12 +2704,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A tiny, yet powerful, PHP micro-framework.",
+            "homepage": "http://equip.github.io",
             "id": 49070457,
             "language": "PHP",
+            "license": "MIT",
             "last_commit": "2020-06-08T17:53:08Z",
+            "open_issues": 2,
             "owner": "equip",
             "repo": "framework",
-            "stars": 117
+            "stars": 117,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:58:25.432Z"
         },
@@ -1740,12 +2725,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A powerful yet easy-to-use PHP micro-framework designed to help you build dynamic and robust Web applications - fast!",
+            "homepage": null,
             "id": 3566571,
             "language": "HTML",
+            "license": null,
             "last_commit": "2026-07-21T23:56:49Z",
+            "open_issues": 52,
             "owner": "bcosca",
             "repo": "fatfree",
-            "stars": 2713
+            "stars": 2713,
+            "topics": [
+              "cache-engine",
+              "database-engine",
+              "datamapper",
+              "html-template",
+              "php",
+              "php-template",
+              "route-handler",
+              "sql-engine",
+              "sql-mapper",
+              "template-engine"
+            ]
           },
           "first_seen": "2026-08-28T20:58:25.432Z"
         },
@@ -1756,12 +2757,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Tiny PHP framework inspired by Sinatra",
+            "homepage": "http://autonomousmachine.com/2008/11/21/fitzgerald-a-sinatra-clone-in-php",
             "id": 6301008,
             "language": "PHP",
+            "license": "MIT",
             "last_commit": "2022-04-13T18:06:23Z",
+            "open_issues": 0,
             "owner": "gregmolnar",
             "repo": "fitzgerald",
-            "stars": 32
+            "stars": 32,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:58:25.432Z"
         },
@@ -1772,12 +2778,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An extensible micro-framework for PHP",
+            "homepage": "https://docs.flightphp.com",
             "id": 1549947,
             "language": "PHP",
+            "license": "MIT",
             "last_commit": "2026-08-23T21:11:40Z",
+            "open_issues": 6,
             "owner": "flightphp",
             "repo": "core",
-            "stars": 2884
+            "stars": 2884,
+            "topics": [
+              "flightphp",
+              "micro-framework",
+              "php",
+              "restful",
+              "restful-api"
+            ]
           },
           "first_seen": "2026-08-28T20:58:25.432Z"
         },
@@ -1788,12 +2805,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A frankenstein framework - middleware and annotation based",
+            "homepage": "https://mary-shelley.github.io/docs/",
             "id": 30379767,
             "language": "PHP",
+            "license": null,
             "last_commit": "2017-07-19T19:54:59Z",
+            "open_issues": 0,
             "owner": "mary-shelley",
             "repo": "frankie",
-            "stars": 21
+            "stars": 21,
+            "topics": [
+              "annotation",
+              "aop",
+              "framework",
+              "php",
+              "symfony"
+            ]
           },
           "first_seen": "2026-08-28T20:58:25.432Z"
         },
@@ -1804,12 +2832,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "PHP7 micro framework, respecting CQRS",
+            "homepage": "https://icehawk.github.io",
             "id": 62516180,
             "language": "PHP",
+            "license": "MIT",
             "last_commit": "2022-06-08T12:34:54Z",
+            "open_issues": 1,
             "owner": "icehawk",
             "repo": "icehawk",
-            "stars": 66
+            "stars": 66,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:58:25.432Z"
         },
@@ -1820,12 +2853,23 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": ":wrench: Layout-based PHP micro-framework for full-stack HTML5 sites",
+            "homepage": null,
             "id": 7546021,
             "language": "PHP",
+            "license": "MIT",
             "last_commit": "2020-01-01T13:44:07Z",
+            "open_issues": 0,
             "owner": "zlatanvasovic",
             "repo": "hackwork",
-            "stars": 32
+            "stars": 32,
+            "topics": [
+              "html5",
+              "layout",
+              "minimal",
+              "php",
+              "php-micro-framework"
+            ]
           },
           "first_seen": "2026-08-28T20:58:25.432Z"
         },
@@ -1836,12 +2880,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "a PHP micro-framework",
+            "homepage": null,
             "id": 181899,
             "language": "PHP",
+            "license": "MIT",
             "last_commit": "2023-10-13T07:10:52Z",
+            "open_issues": 9,
             "owner": "sofadesign",
             "repo": "limonade",
-            "stars": 733
+            "stars": 733,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:58:25.432Z"
         },
@@ -1852,12 +2901,21 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "The Laravel Lumen Framework.",
+            "homepage": "https://lumen.laravel.com",
             "id": 33904351,
             "language": "PHP",
+            "license": null,
             "last_commit": "2024-04-09T14:03:47Z",
+            "open_issues": 0,
             "owner": "laravel",
             "repo": "lumen",
-            "stars": 7571
+            "stars": 7571,
+            "topics": [
+              "framework",
+              "laravel",
+              "lumen"
+            ]
           },
           "first_seen": "2026-08-28T20:58:25.432Z"
         },
@@ -1868,12 +2926,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "The worlds smallest, full featured, object-oriented PHP 5 Framework",
+            "homepage": "http://micromvc.com",
             "id": 133766,
             "language": "PHP",
+            "license": null,
             "last_commit": "2015-07-28T16:23:21Z",
+            "open_issues": 22,
             "owner": "xeoncross",
             "repo": "micromvc",
-            "stars": 638
+            "stars": 638,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:58:25.432Z"
         },
@@ -1884,12 +2947,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": " Just an extremely simple naked PHP application, useful for small projects and quick prototypes.",
+            "homepage": null,
             "id": 64694171,
             "language": "PHP",
+            "license": null,
             "last_commit": "2024-05-13T13:56:23Z",
+            "open_issues": 19,
             "owner": "panique",
             "repo": "mini3",
-            "stars": 276
+            "stars": 276,
+            "topics": [
+              "micro-framework",
+              "php"
+            ]
           },
           "first_seen": "2026-08-28T20:58:25.432Z"
         },
@@ -1900,12 +2971,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Simple \"framework\"",
+            "homepage": "http://nirix.github.io/nanite/",
             "id": 12607806,
             "language": "PHP",
+            "license": null,
             "last_commit": "2025-11-12T09:12:09Z",
+            "open_issues": 2,
             "owner": "nirix",
             "repo": "nanite",
-            "stars": 60
+            "stars": 60,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:58:25.432Z"
         },
@@ -1916,12 +2992,20 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "An extremely light-weight and small Restful Micro-Framework MVC for Web 2.0 that doesn't get in your way, based on Symfony and ExpressJS. No Config",
+            "homepage": "http://juliocesar.space/one-php-microframework/",
             "id": 31168412,
             "language": "PHP",
+            "license": "MIT",
             "last_commit": "2018-11-07T16:47:56Z",
+            "open_issues": 4,
             "owner": "juliomatcom",
             "repo": "one-php-microframework",
-            "stars": 94
+            "stars": 94,
+            "topics": [
+              "micro-framework",
+              "php"
+            ]
           },
           "first_seen": "2026-08-28T20:58:25.432Z"
         },
@@ -1932,12 +3016,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A simple, secure, and scalable PHP application framework",
+            "homepage": "https://www.opulencephp.com",
             "id": 39270428,
             "language": "PHP",
+            "license": "MIT",
             "last_commit": "2023-01-24T01:10:05Z",
+            "open_issues": 0,
             "owner": "opulencephp",
             "repo": "Opulence",
-            "stars": 716
+            "stars": 716,
+            "topics": [
+              "dependency-injection",
+              "framework",
+              "full-stack",
+              "orm",
+              "php"
+            ]
           },
           "first_seen": "2026-08-28T20:58:25.432Z"
         },
@@ -1948,12 +3043,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "High performance, full-stack PHP framework delivered as a C extension.",
+            "homepage": "https://phalcon.io",
             "id": 2854337,
             "language": "PHP",
-            "last_commit": "2026-08-28T20:23:38Z",
+            "license": "BSD-3-Clause",
+            "last_commit": "2026-08-29T02:30:44Z",
+            "open_issues": 56,
             "owner": "phalcon",
             "repo": "cphalcon",
-            "stars": 10827
+            "stars": 10827,
+            "topics": [
+              "ext-phalcon",
+              "extension",
+              "framework",
+              "hacktoberfest",
+              "phalcon",
+              "phalcon-extension",
+              "phalcon-framework",
+              "php",
+              "php-extension"
+            ]
           },
           "first_seen": "2026-08-28T20:58:25.432Z"
         },
@@ -1964,12 +3074,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Minimalist Lightweight PHP Framework",
+            "homepage": null,
             "id": 10651230,
             "language": "PHP",
+            "license": "NOASSERTION",
             "last_commit": "2013-12-30T14:29:05Z",
+            "open_issues": 0,
             "owner": "polymedio",
             "repo": "polyframework",
-            "stars": 8
+            "stars": 8,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:58:25.432Z"
         },
@@ -1980,12 +3095,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Popcorn PHP REST Micro-Framework (Deprecated)",
+            "homepage": "http://popcorn.popphp.org/",
             "id": 22279282,
             "language": "PHP",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-16T14:28:48Z",
+            "open_issues": 0,
             "owner": "popphp",
             "repo": "popcorn",
-            "stars": 36
+            "stars": 36,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:58:25.432Z"
         },
@@ -1996,12 +3116,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Thin controller for RESTful applications",
+            "homepage": "http://respect.github.io/Rest",
             "id": 1606900,
             "language": "PHP",
+            "license": "NOASSERTION",
             "last_commit": "2026-06-28T20:31:24Z",
+            "open_issues": 18,
             "owner": "Respect",
             "repo": "Rest",
-            "stars": 605
+            "stars": 605,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:58:25.432Z"
         },
@@ -2012,12 +3137,22 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "[DEPRECATED -- Use Symfony instead] The PHP micro-framework based on the Symfony Components",
+            "homepage": "https://silex.symfony.com",
             "id": 914985,
             "language": "PHP",
+            "license": "MIT",
             "last_commit": "2018-06-02T11:25:23Z",
+            "open_issues": 0,
             "owner": "silexphp",
             "repo": "Silex",
-            "stars": 3530
+            "stars": 3530,
+            "topics": [
+              "framework",
+              "php",
+              "silex",
+              "symfony"
+            ]
           },
           "first_seen": "2026-08-28T20:58:25.432Z"
         },
@@ -2028,12 +3163,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Slim is a PHP micro framework that helps you quickly write simple yet powerful web applications and APIs.",
+            "homepage": "http://slimframework.com",
             "id": 926544,
             "language": "PHP",
+            "license": "MIT",
             "last_commit": "2026-08-26T16:30:37Z",
+            "open_issues": 15,
             "owner": "slimphp",
             "repo": "Slim",
-            "stars": 12278
+            "stars": 12278,
+            "topics": [
+              "framework",
+              "micro-framework",
+              "php",
+              "php-micro-framework",
+              "psr-15",
+              "psr-3",
+              "psr-7",
+              "slim",
+              "slim-framework"
+            ]
           },
           "first_seen": "2026-08-28T20:58:25.432Z"
         },
@@ -2044,12 +3194,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "PHP framework MVC",
+            "homepage": null,
             "id": 212578990,
             "language": null,
+            "license": null,
             "last_commit": "2014-11-12T14:52:05Z",
+            "open_issues": 0,
             "owner": "imadige",
             "repo": "smceframework-MVC",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:58:25.432Z"
         },
@@ -2060,12 +3215,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Quite possibly the smallest MVC framework you'll ever use.",
+            "homepage": "http://swiftlet.org",
             "id": 460203,
             "language": "PHP",
+            "license": "MIT",
             "last_commit": "2017-05-20T23:49:14Z",
+            "open_issues": 0,
             "owner": "AliasIO",
             "repo": "Swiftlet",
-            "stars": 417
+            "stars": 417,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:58:25.432Z"
         },
@@ -2076,12 +3236,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Simple and efficient PHP MVC framework",
+            "homepage": null,
             "id": 3743868,
             "language": "PHP",
+            "license": "MIT",
             "last_commit": "2026-08-01T10:51:11Z",
+            "open_issues": 0,
             "owner": "Digicreon",
             "repo": "Temma",
-            "stars": 37
+            "stars": 37,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:58:25.432Z"
         },
@@ -2092,12 +3257,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Automatically exported from code.google.com/p/tinymvc-php",
+            "homepage": null,
             "id": 33100582,
             "language": "PHP",
+            "license": null,
             "last_commit": "2018-04-13T20:01:58Z",
+            "open_issues": 6,
             "owner": "mohrt",
             "repo": "tinymvc-php",
-            "stars": 50
+            "stars": 50,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:58:25.432Z"
         },
@@ -2108,12 +3278,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "toKernel Universal PHP Framework version.1",
+            "homepage": null,
             "id": 6216973,
             "language": "PHP",
+            "license": "GPL-3.0",
             "last_commit": "2018-07-05T12:23:45Z",
+            "open_issues": 0,
             "owner": "tokernel",
             "repo": "toKernel.1",
-            "stars": 3
+            "stars": 3,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:58:25.432Z"
         },
@@ -2124,12 +3299,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "RESTful PHP library/framework",
+            "homepage": "http://peej.github.com/tonic/",
             "id": 454508,
             "language": "PHP",
+            "license": "MIT",
             "last_commit": "2022-11-03T18:39:15Z",
+            "open_issues": 36,
             "owner": "peej",
             "repo": "tonic",
-            "stars": 622
+            "stars": 622,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:58:25.432Z"
         },
@@ -2140,12 +3320,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Open Source API-centric PHP Framework",
+            "homepage": "https://github.com/kristovaher/Wave-Framework",
             "id": 3780715,
             "language": "PHP",
+            "license": "LGPL-3.0",
             "last_commit": "2023-01-20T13:45:22Z",
+            "open_issues": 56,
             "owner": "kristovaher",
             "repo": "Wave-Framework",
-            "stars": 2
+            "stars": 2,
+            "topics": [
+              "api",
+              "api-rest",
+              "framework",
+              "full-stack",
+              "php",
+              "php-framework"
+            ]
           },
           "first_seen": "2026-08-28T20:58:25.432Z"
         },
@@ -2156,12 +3348,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Fast php framework written in c, built in php extension",
+            "homepage": "https://php.net/manual/book.yaf",
             "id": 2970982,
             "language": "C",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-27T07:29:10Z",
+            "open_issues": 95,
             "owner": "laruence",
             "repo": "yaf",
-            "stars": 4512
+            "stars": 4512,
+            "topics": [
+              "c",
+              "php",
+              "php-framework",
+              "yaf"
+            ]
           },
           "first_seen": "2026-08-28T20:58:25.432Z"
         },
@@ -2172,12 +3374,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Zaphpa is a super-lightweight, robust and easy library for quickly developing RESTful HTTP APIs in PHP. Inspired by Sinatra.rb and Express.js/Node.js it is probably the easiest and most powerful web micro-framework for RESTful APIs in PHP.",
+            "homepage": "http://zaphpa.org",
             "id": 2844769,
             "language": "PHP",
+            "license": "MIT",
             "last_commit": "2025-11-17T16:22:03Z",
+            "open_issues": 6,
             "owner": "zaphpa",
             "repo": "zaphpa",
-            "stars": 88
+            "stars": 88,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:58:25.432Z"
         }
@@ -2194,12 +3401,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Joyful Python Web App development",
+            "homepage": "http://appier.hive.pt",
             "id": 11429455,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-07-15T07:58:54Z",
+            "open_issues": 11,
             "owner": "hivesolutions",
             "repo": "appier",
-            "stars": 131
+            "stars": 131,
+            "topics": [
+              "appier",
+              "framework",
+              "mvc",
+              "python",
+              "wsgi"
+            ]
           },
           "first_seen": "2026-08-28T20:58:25.432Z"
         },
@@ -2210,12 +3428,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Lightweight web framework that only does publishing.",
+            "homepage": null,
             "id": 8590758,
             "language": "Python",
+            "license": null,
             "last_commit": "2023-02-10T09:11:48Z",
+            "open_issues": 7,
             "owner": "zopefoundation",
             "repo": "bobo",
-            "stars": 83
+            "stars": 83,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:58:25.432Z"
         },
@@ -2226,12 +3449,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "bottle.py is a fast and simple micro-framework for python web-applications.",
+            "homepage": "http://bottlepy.org/",
             "id": 239940,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-07-19T07:21:52Z",
+            "open_issues": 288,
             "owner": "bottlepy",
             "repo": "bottle",
-            "stars": 8777
+            "stars": 8777,
+            "topics": [
+              "bottle",
+              "python",
+              "rest",
+              "web-framework",
+              "wsgi"
+            ]
           },
           "first_seen": "2026-08-28T20:58:25.432Z"
         },
@@ -2242,12 +3476,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🏔️ A functional web framework that streamlines explicit development practices while eliminating global state.",
+            "homepage": "https://python-clastic.readthedocs.io/en/latest/",
             "id": 6820956,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2026-07-17T18:49:48Z",
+            "open_issues": 4,
             "owner": "mahmoud",
             "repo": "clastic",
-            "stars": 160
+            "stars": 160,
+            "topics": [
+              "middleware",
+              "python",
+              "web-framework",
+              "werkzeug",
+              "wsgi"
+            ]
           },
           "first_seen": "2026-08-28T20:58:25.432Z"
         },
@@ -2258,12 +3503,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Cyclone is a web server framework for Python, that implements the Tornado API as a Twisted protocol.",
+            "homepage": "http://cyclone.io",
             "id": 313870,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2022-10-30T14:48:05Z",
+            "open_issues": 5,
             "owner": "fiorix",
             "repo": "cyclone",
-            "stars": 692
+            "stars": 692,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:58:25.432Z"
         },
@@ -2274,12 +3524,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The no-magic web API and microservices framework for Python developers, with a focus on reliability and performance at scale.",
+            "homepage": "https://falcon.readthedocs.io",
             "id": 7040500,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-07-31T07:09:03Z",
+            "open_issues": 161,
             "owner": "falconry",
             "repo": "falcon",
-            "stars": 9795
+            "stars": 9795,
+            "topics": [
+              "api",
+              "api-rest",
+              "asgi",
+              "http",
+              "microservices",
+              "python",
+              "rest",
+              "web",
+              "wsgi"
+            ]
           },
           "first_seen": "2026-08-28T20:58:25.432Z"
         },
@@ -2290,12 +3555,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "FastAPI framework, high performance, easy to learn, fast to code, ready for production",
+            "homepage": "https://fastapi.tiangolo.com/",
             "id": 160919119,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-26T17:54:56Z",
+            "open_issues": 79,
             "owner": "fastapi",
             "repo": "fastapi",
-            "stars": 101908
+            "stars": 101913,
+            "topics": [
+              "api",
+              "async",
+              "asyncio",
+              "fastapi",
+              "framework",
+              "json",
+              "json-schema",
+              "openapi",
+              "openapi3",
+              "pydantic",
+              "python",
+              "python-types",
+              "python3",
+              "redoc",
+              "rest",
+              "starlette",
+              "swagger",
+              "swagger-ui",
+              "uvicorn",
+              "web"
+            ]
           },
           "first_seen": "2026-08-28T20:58:25.432Z"
         },
@@ -2306,12 +3597,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The Python micro framework for building web applications.",
+            "homepage": "https://flask.palletsprojects.com",
             "id": 596892,
             "language": "Python",
+            "license": "BSD-3-Clause",
             "last_commit": "2026-08-16T18:35:35Z",
+            "open_issues": 3,
             "owner": "pallets",
             "repo": "flask",
-            "stars": 72144
+            "stars": 72143,
+            "topics": [
+              "flask",
+              "jinja",
+              "pallets",
+              "python",
+              "web-framework",
+              "werkzeug",
+              "wsgi"
+            ]
           },
           "first_seen": "2026-08-28T20:58:25.432Z"
         },
@@ -2322,12 +3626,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The itty-bitty Python web framework.",
+            "homepage": null,
             "id": 144321,
             "language": "Python",
+            "license": "BSD-3-Clause",
             "last_commit": "2014-01-30T05:29:15Z",
+            "open_issues": 9,
             "owner": "toastdriven",
             "repo": "itty",
-            "stars": 409
+            "stars": 409,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:58:25.432Z"
         },
@@ -2338,12 +3647,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "werkzeug + twisted.web",
+            "homepage": null,
             "id": 3409513,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-26T00:00:55Z",
+            "open_issues": 83,
             "owner": "twisted",
             "repo": "klein",
-            "stars": 838
+            "stars": 838,
+            "topics": [
+              "async",
+              "async-python",
+              "klein",
+              "micro-framework",
+              "python",
+              "twisted",
+              "web-framework"
+            ]
           },
           "first_seen": "2026-08-28T20:58:25.432Z"
         },
@@ -2354,12 +3676,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Python web microframework with superpowers",
+            "homepage": "http://morepath.readthedocs.org",
             "id": 13521137,
             "language": "Python",
+            "license": "BSD-3-Clause",
             "last_commit": "2026-08-05T12:08:19Z",
+            "open_issues": 77,
             "owner": "morepath",
             "repo": "morepath",
-            "stars": 396
+            "stars": 396,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:58:25.432Z"
         },
@@ -2370,12 +3697,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "ObjectWeb is a fast, minimalist, pure-Python web framework that relies on no third party libraries. It is designed around using Python as it was originally intended to be used: as an Object Oriented Programming language. ObjectWeb supports the CGI and WSGI standards and has a built-in development server.",
+            "homepage": null,
             "id": 11972385,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2014-10-02T04:47:53Z",
+            "open_issues": 2,
             "owner": "abramisola",
             "repo": "ObjectWeb",
-            "stars": 29
+            "stars": 29,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:58:25.432Z"
         },
@@ -2386,12 +3718,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A WSGI object-dispatching web framework, designed to be lean and fast with few dependencies.",
+            "homepage": "http://pecanpy.org",
             "id": 12088902,
             "language": null,
+            "license": null,
             "last_commit": "2015-11-24T17:28:30Z",
+            "open_issues": 0,
             "owner": "stackforge",
             "repo": "pecan",
-            "stars": 150
+            "stars": 150,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:58:25.432Z"
         },
@@ -2402,12 +3739,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Pyramid - A Python web framework",
+            "homepage": "https://trypyramid.com/",
             "id": 1020639,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-04T21:13:50Z",
+            "open_issues": 89,
             "owner": "Pylons",
             "repo": "pyramid",
-            "stars": 4095
+            "stars": 4095,
+            "topics": [
+              "pylons",
+              "pyramid",
+              "python",
+              "web-framework",
+              "wsgi"
+            ]
           },
           "first_seen": "2026-08-28T20:58:25.432Z"
         },
@@ -2418,12 +3766,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": " Accelerate your web app development  | Build fast. Run fast.",
+            "homepage": "https://sanic.dev",
             "id": 59720190,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-07-29T03:09:51Z",
+            "open_issues": 146,
             "owner": "sanic-org",
             "repo": "sanic",
-            "stars": 18646
+            "stars": 18646,
+            "topics": [
+              "api-server",
+              "asgi",
+              "asyncio",
+              "framework",
+              "python",
+              "sanic",
+              "web",
+              "web-framework",
+              "web-server"
+            ]
           },
           "first_seen": "2026-08-28T20:58:25.432Z"
         },
@@ -2434,12 +3797,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Tornado is a Python web framework and asynchronous networking library, originally developed at FriendFeed.",
+            "homepage": "http://www.tornadoweb.org/",
             "id": 301742,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-24T19:01:07Z",
+            "open_issues": 252,
             "owner": "tornadoweb",
             "repo": "tornado",
-            "stars": 22179
+            "stars": 22179,
+            "topics": [
+              "asynchronous",
+              "python"
+            ]
           },
           "first_seen": "2026-08-28T20:58:25.432Z"
         },
@@ -2450,12 +3821,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Pythonic Web Development",
+            "homepage": null,
             "id": 726942194,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2024-01-09T16:55:51Z",
+            "open_issues": 0,
             "owner": "0x67757300",
             "repo": "uHTTP",
-            "stars": 107
+            "stars": 107,
+            "topics": [
+              "asgi",
+              "kiss",
+              "python",
+              "web-framework"
+            ]
           },
           "first_seen": "2026-08-28T20:58:25.432Z"
         },
@@ -2466,12 +3847,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "web.py is a web framework for python that is as simple as it is powerful. ",
+            "homepage": "http://webpy.org",
             "id": 57419,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2026-07-22T18:30:13Z",
+            "open_issues": 52,
             "owner": "webpy",
             "repo": "webpy",
-            "stars": 5921
+            "stars": 5921,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:58:25.432Z"
         }
@@ -2488,12 +3874,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Brooklyn - Small web tool on top of Rack",
+            "homepage": null,
             "id": 14777996,
             "language": "Ruby",
+            "license": "MIT",
             "last_commit": "2015-12-05T06:12:49Z",
+            "open_issues": 0,
             "owner": "luislavena",
             "repo": "brooklyn",
-            "stars": 23
+            "stars": 23,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:58:25.432Z"
         },
@@ -2504,12 +3895,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An extremely simple web framework.",
+            "homepage": null,
             "id": 21734372,
             "language": "Ruby",
+            "license": "MIT",
             "last_commit": "2019-10-28T14:44:29Z",
+            "open_issues": 0,
             "owner": "pachacamac",
             "repo": "busker",
-            "stars": 164
+            "stars": 164,
+            "topics": [
+              "embeddable",
+              "framework",
+              "ruby",
+              "sinatra",
+              "tiny"
+            ]
           },
           "first_seen": "2026-08-28T20:58:25.432Z"
         },
@@ -2520,12 +3922,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "the 5k pocket full-of-gags web microframework",
+            "homepage": null,
             "id": 284190,
             "language": "Ruby",
+            "license": "MIT",
             "last_commit": "2026-08-24T14:14:56Z",
+            "open_issues": 48,
             "owner": "camping",
             "repo": "camping",
-            "stars": 986
+            "stars": 986,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:58:25.432Z"
         },
@@ -2536,12 +3943,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Rum based microframework for web development.",
+            "homepage": "http://soveran.github.io/cuba/",
             "id": 627535,
             "language": "Ruby",
+            "license": "MIT",
             "last_commit": "2024-01-24T13:00:14Z",
+            "open_issues": 4,
             "owner": "soveran",
             "repo": "cuba",
-            "stars": 1447
+            "stars": 1447,
+            "topics": [
+              "lesscode",
+              "micro-framework",
+              "rack",
+              "ruby"
+            ]
           },
           "first_seen": "2026-08-28T20:58:25.432Z"
         },
@@ -2552,12 +3969,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "The exceptionally handsome dashboard framework in Ruby and Coffeescript.",
+            "homepage": "http://shopify.github.com/dashing/",
             "id": 5101823,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2019-04-29T15:20:09Z",
+            "open_issues": 251,
             "owner": "Shopify",
             "repo": "dashing",
-            "stars": 10906
+            "stars": 10906,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:58:25.432Z"
         },
@@ -2568,12 +3990,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An opinionated framework for creating REST-like APIs in Ruby.",
+            "homepage": "http://www.ruby-grape.org",
             "id": 812393,
             "language": "Ruby",
+            "license": "MIT",
             "last_commit": "2026-08-27T22:04:39Z",
+            "open_issues": 237,
             "owner": "ruby-grape",
             "repo": "grape",
-            "stars": 10005
+            "stars": 10005,
+            "topics": [
+              "api",
+              "grape",
+              "hacktoberfest",
+              "ruby"
+            ]
           },
           "first_seen": "2026-08-28T20:58:25.432Z"
         },
@@ -2584,12 +4016,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🥞 The thin API stack.",
+            "homepage": null,
             "id": 5321179,
             "language": "Ruby",
+            "license": null,
             "last_commit": "2017-12-10T05:57:23Z",
+            "open_issues": 7,
             "owner": "crepe",
             "repo": "crepe",
-            "stars": 128
+            "stars": 128,
+            "topics": [
+              "api",
+              "fast",
+              "lightweight",
+              "rack",
+              "ruby"
+            ]
           },
           "first_seen": "2026-08-28T20:58:25.432Z"
         },
@@ -2600,12 +4043,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The thin API stack.",
+            "homepage": null,
             "id": 17694789,
             "language": "Ruby",
+            "license": null,
             "last_commit": "2014-04-27T01:46:56Z",
+            "open_issues": 0,
             "owner": "stephencelis",
             "repo": "crepe",
-            "stars": 1
+            "stars": 1,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:58:25.432Z"
         },
@@ -2616,12 +4064,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A flexible framework for maintainable Ruby apps",
+            "homepage": "http://hanamirb.org",
             "id": 12004006,
             "language": "Ruby",
+            "license": "MIT",
             "last_commit": "2026-08-24T16:45:05Z",
+            "open_issues": 33,
             "owner": "hanami",
             "repo": "hanami",
-            "stars": 6407
+            "stars": 6408,
+            "topics": [
+              "api",
+              "hanami",
+              "ruby",
+              "ruby-application",
+              "web",
+              "web-application"
+            ]
           },
           "first_seen": "2026-08-28T20:58:25.432Z"
         },
@@ -2632,12 +4092,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A minimalistic microframework built on top of Rack.",
+            "homepage": null,
             "id": 9395110,
             "language": "Ruby",
+            "license": "MIT",
             "last_commit": "2020-12-30T18:56:58Z",
+            "open_issues": 6,
             "owner": "patriciomacadden",
             "repo": "hobbit",
-            "stars": 272
+            "stars": 272,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:58:25.432Z"
         },
@@ -2648,12 +4113,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Ruby and Rails efficient Kafka processing framework",
+            "homepage": "https://karafka.io",
             "id": 39947871,
             "language": "Ruby",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-28T16:51:54Z",
+            "open_issues": 79,
             "owner": "karafka",
             "repo": "karafka",
-            "stars": 2256
+            "stars": 2256,
+            "topics": [
+              "active-job",
+              "activejob-backend",
+              "apache-kafka",
+              "background-jobs",
+              "events",
+              "kafka",
+              "kafka-client",
+              "kafka-clients",
+              "kafka-consumer",
+              "kafka-manager",
+              "kafka-monitor",
+              "kafka-producer",
+              "kafka-ruby",
+              "karafka-framework",
+              "opensource",
+              "rails",
+              "ruby",
+              "ruby-library",
+              "ruby-on-rails",
+              "rubyonrails"
+            ]
           },
           "first_seen": "2026-08-28T20:58:25.432Z"
         },
@@ -2664,12 +4155,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A lightweight Ruby web framework.",
+            "homepage": null,
             "id": 3937217,
             "language": "Ruby",
+            "license": "NOASSERTION",
             "last_commit": "2026-04-08T15:41:56Z",
+            "open_issues": 3,
             "owner": "kballenegger",
             "repo": "Kenji",
-            "stars": 32
+            "stars": 32,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:58:25.432Z"
         },
@@ -2680,12 +4176,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A lightweight Ruby web framework.",
+            "homepage": null,
             "id": 3937217,
             "language": "Ruby",
+            "license": "NOASSERTION",
             "last_commit": "2026-04-08T15:41:56Z",
+            "open_issues": 3,
             "owner": "kballenegger",
             "repo": "Kenji",
-            "stars": 32
+            "stars": 32,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:58:25.432Z"
         },
@@ -2696,12 +4197,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A flexible framework for maintainable Ruby apps",
+            "homepage": "http://hanamirb.org",
             "id": 12004006,
             "language": "Ruby",
+            "license": "MIT",
             "last_commit": "2026-08-24T16:45:05Z",
+            "open_issues": 33,
             "owner": "hanami",
             "repo": "hanami",
-            "stars": 6407
+            "stars": 6408,
+            "topics": [
+              "api",
+              "hanami",
+              "ruby",
+              "ruby-application",
+              "web",
+              "web-application"
+            ]
           },
           "first_seen": "2026-08-28T20:58:25.432Z"
         },
@@ -2712,12 +4225,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Minimal Ruby microframework for web development inspired in Sinatra and Cuba.",
+            "homepage": "http://guilleiguaran.github.com/nancy",
             "id": 3743483,
             "language": "Ruby",
+            "license": "MIT",
             "last_commit": "2023-05-26T08:40:26Z",
+            "open_issues": 1,
             "owner": "guilleiguaran",
             "repo": "nancy",
-            "stars": 84
+            "stars": 84,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:58:25.432Z"
         },
@@ -2728,12 +4246,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "a (ridiculously) small and powerful web framework.",
+            "homepage": "http://alisnic.github.io/nyny/",
             "id": 10401753,
             "language": "Ruby",
+            "license": "MIT",
             "last_commit": "2016-02-01T08:48:00Z",
+            "open_issues": 2,
             "owner": "alisnic",
             "repo": "nyny",
-            "stars": 317
+            "stars": 317,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:58:25.432Z"
         },
@@ -2744,12 +4267,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Padrino is a full-stack ruby framework built upon Sinatra. ",
+            "homepage": "http://www.padrinorb.com",
             "id": 376635,
             "language": "Ruby",
+            "license": "MIT",
             "last_commit": "2026-06-22T23:32:46Z",
+            "open_issues": 40,
             "owner": "padrino",
             "repo": "padrino-framework",
-            "stars": 3399
+            "stars": 3399,
+            "topics": [
+              "padrino",
+              "ruby",
+              "waf"
+            ]
           },
           "first_seen": "2026-08-28T20:58:25.432Z"
         },
@@ -2760,12 +4292,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A modular Ruby web server interface.",
+            "homepage": null,
             "id": 96071,
             "language": "Ruby",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-14T02:48:06Z",
+            "open_issues": 26,
             "owner": "rack",
             "repo": "rack",
-            "stars": 5129
+            "stars": 5129,
+            "topics": [
+              "rack",
+              "ruby",
+              "web"
+            ]
           },
           "first_seen": "2026-08-28T20:58:25.432Z"
         },
@@ -2776,12 +4317,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Ramaze is a simple, light and modular open-source web application framework written in Ruby.",
+            "homepage": "http://ramaze.net",
             "id": 606435,
             "language": "Ruby",
+            "license": null,
             "last_commit": "2023-08-22T15:38:55Z",
+            "open_issues": 18,
             "owner": "Ramaze",
             "repo": "ramaze",
-            "stars": 370
+            "stars": 370,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:58:25.432Z"
         },
@@ -2792,12 +4338,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Classy web-development dressed in a DSL (official / canonical repo)",
+            "homepage": "https://sinatrarb.com",
             "id": 106995,
             "language": "Ruby",
+            "license": "MIT",
             "last_commit": "2026-07-20T09:59:21Z",
+            "open_issues": 44,
             "owner": "sinatra",
             "repo": "sinatra",
-            "stars": 12449
+            "stars": 12449,
+            "topics": [
+              "rack",
+              "ruby",
+              "sinatra",
+              "web-framework"
+            ]
           },
           "first_seen": "2026-08-28T20:58:25.432Z"
         },
@@ -2808,12 +4364,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The advanced business logic framework for Ruby.",
+            "homepage": "http://trailblazer.to",
             "id": 10955751,
             "language": "Ruby",
+            "license": "NOASSERTION",
             "last_commit": "2025-07-15T09:40:43Z",
+            "open_issues": 38,
             "owner": "trailblazer",
             "repo": "trailblazer",
-            "stars": 3477
+            "stars": 3477,
+            "topics": [
+              "architecture"
+            ]
           },
           "first_seen": "2026-08-28T20:58:25.432Z"
         },
@@ -2824,12 +4387,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Ruby web framework where your Ruby runs on both server and client",
+            "homepage": null,
             "id": 15805577,
             "language": "Ruby",
+            "license": "MIT",
             "last_commit": "2018-01-23T08:54:42Z",
+            "open_issues": 76,
             "owner": "voltrb",
             "repo": "volt",
-            "stars": 3195
+            "stars": 3195,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:58:25.432Z"
         }
@@ -2846,12 +4414,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Fast, testable, Scala services built on TwitterServer and Finagle",
+            "homepage": "https://twitter.github.io/finatra/",
             "id": 3465312,
             "language": "Scala",
+            "license": "Apache-2.0",
             "last_commit": "2025-08-18T21:11:27Z",
+            "open_issues": 22,
             "owner": "twitter",
             "repo": "finatra",
-            "stars": 2272
+            "stars": 2272,
+            "topics": [
+              "finagle",
+              "framework",
+              "guice",
+              "http",
+              "microservices",
+              "scala",
+              "slf4j",
+              "testing",
+              "thrift",
+              "twitter-server"
+            ]
           },
           "first_seen": "2026-08-28T20:58:25.432Z"
         },
@@ -2862,12 +4446,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The Community Maintained High Velocity Web Framework For Java and Scala.",
+            "homepage": "http://www.playframework.com",
             "id": 2340549,
             "language": "Scala",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-27T09:18:56Z",
+            "open_issues": 489,
             "owner": "playframework",
             "repo": "playframework",
-            "stars": 12621
+            "stars": 12621,
+            "topics": [
+              "framework",
+              "hacktoberfest",
+              "java",
+              "jvm",
+              "play",
+              "playframework",
+              "reactive",
+              "restful",
+              "scala",
+              "web-framework",
+              "webapps"
+            ]
           },
           "first_seen": "2026-08-28T20:58:25.432Z"
         },
@@ -2878,12 +4479,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Tiny Scala high-performance, async web framework, inspired by Sinatra",
+            "homepage": "http://scalatra.org",
             "id": 214710,
             "language": "Scala",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-27T23:42:49Z",
+            "open_issues": 75,
             "owner": "scalatra",
             "repo": "scalatra",
-            "stars": 2650
+            "stars": 2650,
+            "topics": [
+              "atmosphere",
+              "jetty",
+              "json",
+              "scala",
+              "scalate",
+              "sinatra",
+              "swagger",
+              "web-framework"
+            ]
           },
           "first_seen": "2026-08-28T20:58:25.432Z"
         },
@@ -2894,12 +4509,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "A suite of scala libraries for building and consuming RESTful web services on top of Akka: lightweight, asynchronous, non-blocking, actor-based, testable",
+            "homepage": "http://spray.io",
             "id": 1525163,
             "language": "Scala",
+            "license": "NOASSERTION",
             "last_commit": "2017-02-21T11:03:37Z",
+            "open_issues": 80,
             "owner": "spray",
             "repo": "spray",
-            "stars": 2493
+            "stars": 2493,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:58:25.432Z"
         }
@@ -2916,12 +4536,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "An MVC web framework for .NET ",
+            "homepage": null,
             "id": 2903102,
             "language": "C#",
+            "license": null,
             "last_commit": "2018-09-18T16:26:11Z",
+            "open_issues": 0,
             "owner": "frankhale",
             "repo": "Aurora",
-            "stars": 8
+            "stars": 8,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:58:25.432Z"
         },
@@ -2932,12 +4557,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The Everything is Real-Time C# Backend for Single Page Applications",
+            "homepage": null,
             "id": 112019366,
             "language": "C#",
+            "license": "MPL-2.0",
             "last_commit": "2023-01-04T22:58:56Z",
+            "open_issues": 32,
             "owner": "firesharkstudios",
             "repo": "butterfly-server",
-            "stars": 273
+            "stars": 273,
+            "topics": [
+              "app",
+              "butterfly",
+              "database",
+              "push",
+              "realtime",
+              "server",
+              "spa",
+              "webapp",
+              "webserver",
+              "websocket"
+            ]
           },
           "first_seen": "2026-08-28T20:58:25.432Z"
         },
@@ -2948,12 +4589,29 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Lightweight, low-ceremony, framework for building HTTP based services on .Net and Mono",
+            "homepage": "http://nancyfx.org",
             "id": 738250,
             "language": "C#",
+            "license": "MIT",
             "last_commit": "2021-01-24T13:28:09Z",
+            "open_issues": 218,
             "owner": "NancyFx",
             "repo": "Nancy",
-            "stars": 7094
+            "stars": 7094,
+            "topics": [
+              "c-sharp",
+              "dotnet",
+              "dotnet-core",
+              "framework",
+              "mit",
+              "mono",
+              "nancy",
+              "nancy-application",
+              "nancyfx",
+              "web",
+              "web-application-framework"
+            ]
           },
           "first_seen": "2026-08-28T20:58:25.432Z"
         }
@@ -2962,15 +4620,24 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T20:58:25.432Z",
+    "last_updated": "2026-08-29T04:17:52.925Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A curated list of awesome minimalist frameworks (simple and lightweight).",
+      "homepage": "https://neiesc.github.io/awesome-minimalist/",
       "id": 15118599,
       "language": "Astro",
+      "license": "CC0-1.0",
       "last_commit": "2026-07-17T06:37:40Z",
+      "open_issues": 1,
       "owner": "neiesc",
       "repo": "awesome-minimalist",
-      "stars": 3656
+      "stars": 3656,
+      "topics": [
+        "awesome-lists",
+        "hacktoberfest",
+        "minimalistic"
+      ]
     },
     "original_repository_sha": "a234acf4a040e6f58fc0893911fb64dd17b2f77c",
     "enhanced_repository": "enhansome/enhansome-minimalist",
