@@ -140,10 +140,10 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-09-25T19:32:43Z",
-            "open_issues": 91,
+            "open_issues": 92,
             "owner": "tailwindlabs",
             "repo": "tailwindcss",
-            "stars": 97755,
+            "stars": 97765,
             "topics": [
               "css",
               "css-framework",
@@ -172,7 +172,7 @@
             "open_issues": 1,
             "owner": "pure-css",
             "repo": "pure",
-            "stars": 23722,
+            "stars": 23721,
             "topics": [
               "css",
               "html",
@@ -208,17 +208,17 @@
           "description": "· · Repository · · MIT License",
           "children": [],
           "repo_info": {
-            "archived": false,
+            "archived": true,
             "description": "Minimal CSS Framework for semantic HTML",
             "homepage": "https://picocss.com",
             "id": 221892711,
             "language": "CSS",
             "license": "MIT",
-            "last_commit": "2026-05-09T18:16:06Z",
-            "open_issues": 128,
+            "last_commit": "2026-10-04T04:00:49Z",
+            "open_issues": 127,
             "owner": "picocss",
             "repo": "pico",
-            "stars": 16876,
+            "stars": 16868,
             "topics": [
               "css",
               "css-framework",
@@ -840,7 +840,7 @@
             "open_issues": 14,
             "owner": "alpinejs",
             "repo": "alpine",
-            "stars": 31955,
+            "stars": 31959,
             "topics": []
           },
           "first_seen": "2026-08-28T20:58:25.432Z"
@@ -1190,7 +1190,7 @@
             "language": "Go",
             "license": "MIT",
             "last_commit": "2026-10-02T18:48:47Z",
-            "open_issues": 54,
+            "open_issues": 60,
             "owner": "labstack",
             "repo": "echo",
             "stars": 32750,
@@ -1225,10 +1225,10 @@
             "language": "Go",
             "license": "MIT",
             "last_commit": "2026-09-30T14:18:51Z",
-            "open_issues": 113,
+            "open_issues": 116,
             "owner": "go-chi",
             "repo": "chi",
-            "stars": 22917,
+            "stars": 22920,
             "topics": [
               "api",
               "context",
@@ -1401,7 +1401,7 @@
             "open_issues": 262,
             "owner": "perwendel",
             "repo": "spark",
-            "stars": 9636,
+            "stars": 9635,
             "topics": []
           },
           "first_seen": "2026-08-28T20:58:25.432Z"
@@ -1422,7 +1422,7 @@
             "open_issues": 25,
             "owner": "javalin",
             "repo": "javalin",
-            "stars": 8357,
+            "stars": 8358,
             "topics": [
               "hacktoberfest",
               "java",
@@ -1641,7 +1641,7 @@
             "id": 440010467,
             "language": "Java",
             "license": "MIT",
-            "last_commit": "2026-09-30T02:47:44Z",
+            "last_commit": "2026-10-03T21:56:16Z",
             "open_issues": 0,
             "owner": "byronka",
             "repo": "minum",
@@ -1812,7 +1812,7 @@
             "open_issues": 26,
             "owner": "MithrilJS",
             "repo": "mithril.js",
-            "stars": 14505,
+            "stars": 14506,
             "topics": [
               "framework",
               "javascript",
@@ -1882,7 +1882,7 @@
             "open_issues": 0,
             "owner": "franciscop",
             "repo": "umbrella",
-            "stars": 2347,
+            "stars": 2346,
             "topics": []
           },
           "first_seen": "2026-08-28T20:58:25.432Z"
@@ -1909,7 +1909,7 @@
             "open_issues": 171,
             "owner": "leafo",
             "repo": "lapis",
-            "stars": 3345,
+            "stars": 3344,
             "topics": [
               "lapis",
               "lua",
@@ -1968,10 +1968,10 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2026-10-01T22:08:08Z",
-            "open_issues": 238,
+            "open_issues": 240,
             "owner": "expressjs",
             "repo": "express",
-            "stars": 69501,
+            "stars": 69517,
             "topics": [
               "express",
               "javascript",
@@ -1994,10 +1994,10 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2026-10-01T11:13:35Z",
-            "open_issues": 159,
+            "open_issues": 161,
             "owner": "fastify",
             "repo": "fastify",
-            "stars": 37225,
+            "stars": 37233,
             "topics": [
               "fastify",
               "fastify-core",
@@ -2026,7 +2026,7 @@
             "open_issues": 40,
             "owner": "koajs",
             "repo": "koa",
-            "stars": 35683,
+            "stars": 35682,
             "topics": [
               "koa"
             ]
@@ -2049,7 +2049,7 @@
             "open_issues": 594,
             "owner": "balderdashy",
             "repo": "sails",
-            "stars": 22795,
+            "stars": 22793,
             "topics": []
           },
           "first_seen": "2026-08-28T20:58:25.432Z"
@@ -2101,7 +2101,7 @@
             "open_issues": 56,
             "owner": "hapijs",
             "repo": "hapi",
-            "stars": 14790,
+            "stars": 14788,
             "topics": [
               "application",
               "framework",
@@ -2161,7 +2161,7 @@
             "open_issues": 133,
             "owner": "restify",
             "repo": "node-restify",
-            "stars": 10687,
+            "stars": 10686,
             "topics": [
               "rest-api",
               "restify",
@@ -2186,7 +2186,7 @@
             "open_issues": 30,
             "owner": "socketstream",
             "repo": "socketstream",
-            "stars": 3515,
+            "stars": 3514,
             "topics": [
               "nodejs",
               "realtime"
@@ -2422,7 +2422,7 @@
             "open_issues": 14,
             "owner": "slimphp",
             "repo": "Slim",
-            "stars": 12277,
+            "stars": 12278,
             "topics": [
               "framework",
               "micro-framework",
@@ -2449,8 +2449,8 @@
             "id": 2854337,
             "language": "PHP",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-10-02T23:09:37Z",
-            "open_issues": 49,
+            "last_commit": "2026-10-04T14:27:52Z",
+            "open_issues": 48,
             "owner": "phalcon",
             "repo": "cphalcon",
             "stars": 10820,
@@ -2510,8 +2510,8 @@
             "id": 1549947,
             "language": "PHP",
             "license": "MIT",
-            "last_commit": "2026-09-04T03:58:07Z",
-            "open_issues": 2,
+            "last_commit": "2026-10-03T14:57:49Z",
+            "open_issues": 3,
             "owner": "flightphp",
             "repo": "core",
             "stars": 2888,
@@ -2541,7 +2541,7 @@
             "open_issues": 52,
             "owner": "bcosca",
             "repo": "fatfree",
-            "stars": 2718,
+            "stars": 2717,
             "topics": [
               "cache-engine",
               "database-engine",
@@ -3028,7 +3028,7 @@
             "open_issues": 85,
             "owner": "fastapi",
             "repo": "fastapi",
-            "stars": 102784,
+            "stars": 102801,
             "topics": [
               "api",
               "async",
@@ -3070,7 +3070,7 @@
             "open_issues": 4,
             "owner": "pallets",
             "repo": "flask",
-            "stars": 74800,
+            "stars": 74877,
             "topics": [
               "flask",
               "jinja",
@@ -3096,7 +3096,7 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-10-02T17:33:28Z",
-            "open_issues": 213,
+            "open_issues": 216,
             "owner": "tornadoweb",
             "repo": "tornado",
             "stars": 22170,
@@ -3120,7 +3120,7 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-07-29T03:09:51Z",
-            "open_issues": 154,
+            "open_issues": 156,
             "owner": "sanic-org",
             "repo": "sanic",
             "stars": 18636,
@@ -3212,7 +3212,7 @@
             "open_issues": 54,
             "owner": "webpy",
             "repo": "webpy",
-            "stars": 5922,
+            "stars": 5921,
             "topics": []
           },
           "first_seen": "2026-08-28T20:58:25.432Z"
@@ -3260,7 +3260,7 @@
             "open_issues": 273,
             "owner": "cherrypy",
             "repo": "cherrypy",
-            "stars": 1948,
+            "stars": 1949,
             "topics": [
               "cherrypy",
               "cross-platform",
@@ -3563,8 +3563,8 @@
             "id": 812393,
             "language": "Ruby",
             "license": "MIT",
-            "last_commit": "2026-10-01T20:53:17Z",
-            "open_issues": 243,
+            "last_commit": "2026-10-03T23:04:28Z",
+            "open_issues": 241,
             "owner": "ruby-grape",
             "repo": "grape",
             "stars": 10008,
@@ -3589,8 +3589,8 @@
             "id": 12004006,
             "language": "Ruby",
             "license": "MIT",
-            "last_commit": "2026-10-02T13:27:32Z",
-            "open_issues": 33,
+            "last_commit": "2026-10-04T09:19:36Z",
+            "open_issues": 31,
             "owner": "hanami",
             "repo": "hanami",
             "stars": 6421,
@@ -3646,7 +3646,7 @@
             "open_issues": 38,
             "owner": "trailblazer",
             "repo": "trailblazer",
-            "stars": 3472,
+            "stars": 3473,
             "topics": [
               "architecture"
             ]
@@ -3711,8 +3711,8 @@
             "id": 39947871,
             "language": "Ruby",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-03T03:01:16Z",
-            "open_issues": 83,
+            "last_commit": "2026-10-04T08:46:31Z",
+            "open_issues": 84,
             "owner": "karafka",
             "repo": "karafka",
             "stars": 2252,
@@ -3965,8 +3965,8 @@
             "id": 2340549,
             "language": "Scala",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-01T20:09:44Z",
-            "open_issues": 499,
+            "last_commit": "2026-10-04T10:01:20Z",
+            "open_issues": 492,
             "owner": "playframework",
             "repo": "playframework",
             "stars": 12615,
@@ -3998,7 +3998,7 @@
             "id": 214710,
             "language": "Scala",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-03T02:16:12Z",
+            "last_commit": "2026-10-04T11:47:05Z",
             "open_issues": 72,
             "owner": "scalatra",
             "repo": "scalatra",
@@ -4053,7 +4053,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T14:24:08.948Z",
+    "last_updated": "2026-10-04T14:57:03.603Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome minimalist frameworks (simple and lightweight).",
