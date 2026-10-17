@@ -36,7 +36,7 @@ Every entry follows the same field order: **Name — Install · Size · Reposito
 
 Format: Name — Size · Repository · Last commit · License
 
-* [Medoo](http://medoo.in/) — 10KB · [Repository](https://github.com/catfan/Medoo) ⭐ 4,950 | 🐛 51 | 🌐 PHP | 📅 2026-10-12 · ![last-commit](https://badgen.net/github/last-commit/catfan/Medoo) · MIT License
+* [Medoo](http://medoo.in/) — 10KB · [Repository](https://github.com/catfan/Medoo) ⭐ 4,949 | 🐛 51 | 🌐 PHP | 📅 2026-10-12 · ![last-commit](https://badgen.net/github/last-commit/catfan/Medoo) · MIT License
 * [RedBeanPHP 4](http://www.redbeanphp.com/) — 289KB · [Repository](https://github.com/gabordemooij/redbean) ⭐ 2,312 | 🐛 3 | 🌐 PHP | 📅 2026-07-09 · ![last-commit](https://badgen.net/github/last-commit/gabordemooij/redbean) · BSD License
 * [NotORM](http://www.notorm.com) — 44KB · [Repository](https://github.com/vrana/notorm) ⭐ 850 | 🐛 40 | 🌐 PHP | 📅 2024-08-05 · ![last-commit](https://badgen.net/github/last-commit/vrana/notorm) · GPL 2.0 License
 * [Flourish](http://flourishlib.com/) — 9MB · [Repository](https://github.com/flourishlib/flourish-classes) ⭐ 183 | 🐛 165 | 🌐 PHP | 📅 2026-07-13 · ![last-commit](https://badgen.net/github/last-commit/flourishlib/flourish-classes) · MIT License
@@ -48,14 +48,14 @@ Use <http://refresh-sf.com/> to compress, and get size "Gzip"
 
 Format: Name — Install · Size · Repository · Last commit · License
 
-* [Tailwind CSS](https://tailwindcss.com) — `npm install tailwindcss` · ![zipped-size](https://badgen.net/bundlephobia/minzip/tailwindcss) · [Repository](https://github.com/tailwindlabs/tailwindcss) ⭐ 97,887 | 🐛 84 | 🌐 TypeScript | 📅 2026-10-16 · ![last-commit](https://badgen.net/github/last-commit/tailwindlabs/tailwindcss) · MIT License
-* [Pure](http://purecss.io/) — `npm install purecss` · ![zipped-size](https://badgen.net/bundlephobia/minzip/purecss) · [Repository](https://github.com/pure-css/pure) ⭐ 23,714 | 🐛 1 | 🌐 JavaScript | 📅 2026-10-16 · ![last-commit](https://badgen.net/github/last-commit/pure-css/pure) · BSD License
-* [Skeleton](http://getskeleton.com) — --- · --- · [Repository](https://github.com/dhg/Skeleton) ⭐ 19,347 | 🐛 137 | 🌐 CSS | 📅 2023-11-14 · ![last-commit](https://badgen.net/github/last-commit/dhg/Skeleton) · MIT License
+* [Tailwind CSS](https://tailwindcss.com) — `npm install tailwindcss` · ![zipped-size](https://badgen.net/bundlephobia/minzip/tailwindcss) · [Repository](https://github.com/tailwindlabs/tailwindcss) ⭐ 97,892 | 🐛 85 | 🌐 TypeScript | 📅 2026-10-16 · ![last-commit](https://badgen.net/github/last-commit/tailwindlabs/tailwindcss) · MIT License
+* [Pure](http://purecss.io/) — `npm install purecss` · ![zipped-size](https://badgen.net/bundlephobia/minzip/purecss) · [Repository](https://github.com/pure-css/pure) ⭐ 23,713 | 🐛 1 | 🌐 JavaScript | 📅 2026-10-16 · ![last-commit](https://badgen.net/github/last-commit/pure-css/pure) · BSD License
+* [Skeleton](http://getskeleton.com) — --- · --- · [Repository](https://github.com/dhg/Skeleton) ⭐ 19,346 | 🐛 137 | 🌐 CSS | 📅 2023-11-14 · ![last-commit](https://badgen.net/github/last-commit/dhg/Skeleton) · MIT License
 * [Pico](https://picocss.com/) — `npm install @picocss/pico` · ![zipped-size](https://badgen.net/bundlephobia/minzip/@picocss/pico) · [Repository](https://github.com/picocss/pico) ⚠️ Archived · ![last-commit](https://badgen.net/github/last-commit/picocss/pico) · MIT License
 * [Tachyons](http://tachyons.io) — `npm install tachyons` · ![zipped-size](https://badgen.net/bundlephobia/minzip/tachyons) · [Repository](https://github.com/tachyons-css/tachyons) ⭐ 11,725 | 🐛 89 | 🌐 CSS | 📅 2026-07-20 · ![last-commit](https://badgen.net/github/last-commit/tachyons-css/tachyons) · MIT License
 * [Milligram](http://milligram.io/) — `npm install milligram` · ![zipped-size](https://badgen.net/bundlephobia/minzip/milligram) · [Repository](https://github.com/milligram/milligram) ⭐ 10,215 | 🐛 126 | 🌐 HTML | 📅 2026-09-01 · ![last-commit](https://badgen.net/github/last-commit/milligram/milligram) · MIT License
 * [Bass](http://www.basscss.com/) — `npm install basscss` · ![zipped-size](https://badgen.net/bundlephobia/minzip/basscss) · [Repository](https://github.com/basscss/basscss) ⭐ 5,899 | 🐛 39 | 🌐 CSS | 📅 2022-12-30 · ![last-commit](https://badgen.net/github/last-commit/basscss/basscss) · MIT License
-* [MVP.css](https://andybrewer.github.io/mvp/) — --- · --- · [Repository](https://github.com/andybrewer/mvp/) ⭐ 5,127 | 🐛 0 | 🌐 HTML | 📅 2026-09-14 · ![last-commit](https://badgen.net/github/last-commit/andybrewer/mvp) · MIT License
+* [MVP.css](https://andybrewer.github.io/mvp/) — --- · --- · [Repository](https://github.com/andybrewer/mvp/) ⭐ 5,129 | 🐛 0 | 🌐 HTML | 📅 2026-09-14 · ![last-commit](https://badgen.net/github/last-commit/andybrewer/mvp) · MIT License
 * [Picnic CSS](http://www.picnicss.com/) — `npm install picnic` · ![zipped-size](https://badgen.net/bundlephobia/minzip/picnic) · [Repository](https://github.com/franciscop/picnic) ⭐ 3,879 | 🐛 16 | 🌐 CSS | 📅 2024-10-03 · ![last-commit](https://badgen.net/github/last-commit/franciscop/picnic) · MIT License
 * Wing — --- · --- · [Repository](https://github.com/kbrsh/wing) ⭐ 1,991 | 🐛 11 | 🌐 CSS | 📅 2020-05-02 · ![last-commit](https://badgen.net/github/last-commit/kbrsh/wing) · MIT License
 * [Toast](https://daneden.me/toast) — `npm install toast` · ![zipped-size](https://badgen.net/bundlephobia/minzip/toast) · [Repository](https://github.com/daneden/Toast) ⭐ 1,990 | 🐛 12 | 🌐 CSS | 📅 2018-12-15 · ![last-commit](https://badgen.net/github/last-commit/daneden/Toast) · MIT License
@@ -82,12 +82,12 @@ Format: Name — Install · Size · Repository · Last commit · License
 
 Format: Name — Install · Size · Repository · Last commit · License
 
-* [Alpine](https://alpinejs.dev/) — --- · [Repository](https://github.com/alpinejs/alpine) ⭐ 31,977 | 🐛 22 | 🌐 HTML | 📅 2026-10-16 · ![last-commit](https://badgen.net/github/last-commit/alpinejs/alpine) · MIT License
+* [Alpine](https://alpinejs.dev/) — --- · [Repository](https://github.com/alpinejs/alpine) ⭐ 31,979 | 🐛 24 | 🌐 HTML | 📅 2026-10-16 · ![last-commit](https://badgen.net/github/last-commit/alpinejs/alpine) · MIT License
 * [C H O O](https://choo.io/) — `npm install choo` · ![zipped-size](https://badgen.net/bundlephobia/minzip/choo) · [Repository](https://github.com/choojs/choo) ⭐ 6,764 | 🐛 44 | 🌐 JavaScript | 📅 2026-02-20 · ![last-commit](https://badgen.net/github/last-commit/choojs/choo) · MIT License
 * [Topcoat](http://topcoat.io/) — `bower lookup topcoat` · [Repository](https://github.com/topcoat/topcoat) ⭐ 4,235 | 🐛 68 | 🌐 HTML | 📅 2018-04-18 · ![last-commit](https://badgen.net/github/last-commit/topcoat/topcoat) · Apache License 2.0
 * [Spine](http://spinejs.com/) — `bower install spine` · [Repository](https://github.com/spine/spine) ⭐ 3,694 | 🐛 36 | 🌐 JavaScript | 📅 2020-04-04 · ![last-commit](https://badgen.net/github/last-commit/spine/spine) · MIT License
-* [Aura](http://aurajs.com/) — `bower install aura` · [Repository](https://github.com/aurajs/aura) ⭐ 2,928 | 🐛 39 | 🌐 JavaScript | 📅 2017-04-17 · ![last-commit](https://badgen.net/github/last-commit/aurajs/aura) · MIT License
-* [skel](http://skel.io/) — --- · [Repository](https://github.com/ajlkn/skel) ⭐ 2,196 | 🐛 27 | 🌐 JavaScript | 📅 2018-06-13 · ![last-commit](https://badgen.net/github/last-commit/ajlkn/skel) · MIT License
+* [Aura](http://aurajs.com/) — `bower install aura` · [Repository](https://github.com/aurajs/aura) ⭐ 2,927 | 🐛 39 | 🌐 JavaScript | 📅 2017-04-17 · ![last-commit](https://badgen.net/github/last-commit/aurajs/aura) · MIT License
+* [skel](http://skel.io/) — --- · [Repository](https://github.com/ajlkn/skel) ⭐ 2,195 | 🐛 27 | 🌐 JavaScript | 📅 2018-06-13 · ![last-commit](https://badgen.net/github/last-commit/ajlkn/skel) · MIT License
 * Min.js — --- · [Repository](https://github.com/remy/min.js) ⭐ 1,092 | 🐛 8 | 🌐 JavaScript | 📅 2013-07-22 · ![last-commit](https://badgen.net/github/last-commit/remy/min.js) · MIT License
 * [Responsive](http://responsivebp.com/) — --- · [Repository](https://github.com/ResponsiveBP/Responsive) ⭐ 871 | 🐛 14 | 🌐 HTML | 📅 2023-07-19 · ![last-commit](https://badgen.net/github/last-commit/ResponsiveBP/Responsive) · MIT License
 * [Kraken](http://cferdinandi.github.io/kraken/) — --- · [Repository](https://github.com/cferdinandi/kraken) ⭐ 809 | 🐛 6 | 🌐 HTML | 📅 2025-07-28 · ![last-commit](https://badgen.net/github/last-commit/cferdinandi/kraken) · MIT License
@@ -112,8 +112,8 @@ Format: Name — Repository · Last commit · License
 
 Format: Name — Repository · Last commit · License
 
-* echo — [Repository](https://github.com/labstack/echo) ⭐ 32,770 | 🐛 70 | 🌐 Go | 📅 2026-10-12 · ![last-commit](https://badgen.net/github/last-commit/labstack/echo) · MIT License
-* chi — [Repository](https://github.com/go-chi/chi) ⭐ 22,958 | 🐛 126 | 🌐 Go | 📅 2026-10-14 · ![last-commit](https://badgen.net/github/last-commit/go-chi/chi) · MIT License
+* echo — [Repository](https://github.com/labstack/echo) ⭐ 32,772 | 🐛 72 | 🌐 Go | 📅 2026-10-12 · ![last-commit](https://badgen.net/github/last-commit/labstack/echo) · MIT License
+* chi — [Repository](https://github.com/go-chi/chi) ⭐ 22,960 | 🐛 127 | 🌐 Go | 📅 2026-10-14 · ![last-commit](https://badgen.net/github/last-commit/go-chi/chi) · MIT License
 * [Martini](http://martini.codegangsta.io) — [Repository](https://github.com/go-martini/martini) ⭐ 11,597 | 🐛 17 | 🌐 Go | 📅 2022-03-29 · ![last-commit](https://badgen.net/github/last-commit/go-martini/martini) · MIT License
 * Gocraft/web — [Repository](https://github.com/gocraft/web) ⭐ 1,525 | 🐛 24 | 🌐 Go | 📅 2020-10-01 · ![last-commit](https://badgen.net/github/last-commit/gocraft/web) · MIT License
 * [Beego Framework](http://beego.me/) — [Repository](https://github.com/astaxie/beego) ⭐ 742 | 🐛 0 | 📅 2022-04-27 · ![last-commit](https://badgen.net/github/last-commit/astaxie/beego) · Apache License 2.0
@@ -130,16 +130,16 @@ Format: Name — Install · Repository · Last commit · License
 
 Format: Name — Repository · Last commit · License
 
-* [Spark](http://www.sparkjava.com/) — [Repository](https://github.com/perwendel/spark) ⭐ 9,632 | 🐛 261 | 🌐 Java | 📅 2023-10-08 · ![last-commit](https://badgen.net/github/last-commit/perwendel/spark) · Apache License 2.0
+* [Spark](http://www.sparkjava.com/) — [Repository](https://github.com/perwendel/spark) ⭐ 9,633 | 🐛 261 | 🌐 Java | 📅 2023-10-08 · ![last-commit](https://badgen.net/github/last-commit/perwendel/spark) · Apache License 2.0
 * [Javalin](https://javalin.io/) — [Repository](https://github.com/javalin/javalin) ⭐ 8,368 | 🐛 31 | 🌐 Kotlin | 📅 2026-10-08 · ![last-commit](https://badgen.net/github/last-commit/javalin/javalin) · Apache License 2.0
-* [Blade](http://bladejava.com/) — [Repository](https://github.com/lets-blade/blade) ⭐ 5,868 | 🐛 14 | 🌐 Java | 📅 2026-05-15 · ![last-commit](https://badgen.net/github/last-commit/lets-blade/blade) · Apache License 2.0
-* [Jodd](http://jodd.org/) — [Repository](https://github.com/oblac/jodd) ⭐ 4,044 | 🐛 2 | 🌐 Java | 📅 2024-04-15 · ![last-commit](https://badgen.net/github/last-commit/oblac/jodd) · BSD 2-Clause License
+* [Blade](http://bladejava.com/) — [Repository](https://github.com/lets-blade/blade) ⭐ 5,869 | 🐛 14 | 🌐 Java | 📅 2026-05-15 · ![last-commit](https://badgen.net/github/last-commit/lets-blade/blade) · Apache License 2.0
+* [Jodd](http://jodd.org/) — [Repository](https://github.com/oblac/jodd) ⭐ 4,045 | 🐛 2 | 🌐 Java | 📅 2024-04-15 · ![last-commit](https://badgen.net/github/last-commit/oblac/jodd) · BSD 2-Clause License
 * [JFinal](https://www.gitbook.com/book/jfinal/jfinal-manual/details) — [Repository](https://github.com/jfinal/jfinal) ⭐ 3,270 | 🐛 13 | 🌐 Java | 📅 2026-09-18 · ![last-commit](https://badgen.net/github/last-commit/jfinal/jfinal) · Apache License 2.0
 * [Ninja Framework](http://www.ninjaframework.org/) — [Repository](https://github.com/ninjaframework/ninja) ⭐ 1,900 | 🐛 126 | 🌐 Java | 📅 2026-04-03 · ![last-commit](https://badgen.net/github/last-commit/ninjaframework/ninja) · Apache License 2.0
 * [Jooby](http://jooby.org/) — [Repository](https://github.com/jooby-project/jooby) ⭐ 1,780 | 🐛 7 | 🌐 Java | 📅 2026-10-16 · ![last-commit](https://badgen.net/github/last-commit/jooby-project/jooby) · Apache License 2.0
 * [Resty](https://dreampie.gitbooks.io/resty-chs/content/index.html) — [Repository](https://github.com/Dreampie/resty) ⭐ 1,235 | 🐛 5 | 🌐 Java | 📅 2021-11-05 · ![last-commit](https://badgen.net/github/last-commit/Dreampie/resty) · Apache License 2.0
 * [Pippo](http://pippo.ro/) — [Repository](https://github.com/pippo-java/pippo) ⭐ 787 | 🐛 64 | 🌐 Java | 📅 2025-12-22 · ![last-commit](https://badgen.net/github/last-commit/pippo-java/pippo) · Apache License 2.0
-* [Restlet](http://restlet.org) — [Repository](https://github.com/restlet/restlet-framework-java) ⭐ 667 | 🐛 379 | 🌐 Java | 📅 2026-10-15 · ![last-commit](https://badgen.net/github/last-commit/restlet/restlet-framework-java) · Apache License 2.0
+* [Restlet](http://restlet.org) — [Repository](https://github.com/restlet/restlet-framework-java) ⭐ 667 | 🐛 349 | 🌐 Java | 📅 2026-10-17 · ![last-commit](https://badgen.net/github/last-commit/restlet/restlet-framework-java) · Apache License 2.0
 * [Minum](https://github.com/byronka/minum) ⭐ 666 | 🐛 0 | 🌐 Java | 📅 2026-10-09 — [Repository](https://github.com/byronka/minum) ⭐ 666 | 🐛 0 | 🌐 Java | 📅 2026-10-09 · ![last-commit](https://badgen.net/github/last-commit/byronka/minum) · MIT License
 * [RestX](http://restx.io/) — [Repository](https://github.com/restx/restx) ⭐ 449 | 🐛 41 | 🌐 Java | 📅 2026-08-10 · ![last-commit](https://badgen.net/github/last-commit/restx/restx) · Apache License 2.0
 * [Cloudopt Next](https://next.cloudopt.net/) — [Repository](https://github.com/cloudoptlab/cloudopt-next) ⭐ 350 | 🐛 3 | 🌐 Kotlin | 📅 2024-02-25 · ![last-commit](https://badgen.net/github/last-commit/cloudoptlab/cloudopt-next) · Apache License 2.0
@@ -158,23 +158,23 @@ Format: Name — Repository · Last commit · License
 
 Format: Name — Install · Repository · Last commit · License
 
-* [Lapis](http://leafo.net/lapis/) — `luarocks install lapis` · [Repository](https://github.com/leafo/lapis) ⭐ 3,349 | 🐛 170 | 🌐 MoonScript | 📅 2026-09-29 · ![last-commit](https://badgen.net/github/last-commit/leafo/lapis) · MIT License
+* [Lapis](http://leafo.net/lapis/) — `luarocks install lapis` · [Repository](https://github.com/leafo/lapis) ⭐ 3,350 | 🐛 170 | 🌐 MoonScript | 📅 2026-09-29 · ![last-commit](https://badgen.net/github/last-commit/leafo/lapis) · MIT License
 * Vanilla — `luarocks install vanilla` · [Repository](https://github.com/idevz/vanilla) ⭐ 1,039 | 🐛 3 | 🌐 Perl | 📅 2019-01-09 · ![last-commit](https://badgen.net/github/last-commit/idevz/vanilla) · MIT License
 
 ## Web framework for Node.js
 
 Format: Name — Install · Size · Repository · Last commit · License
 
-* [Express.js](http://expressjs.com) — `npm install express` · ![zipped-size](https://badgen.net/bundlephobia/minzip/express) · [Repository](https://github.com/expressjs/express) ⭐ 69,573 | 🐛 236 | 🌐 JavaScript | 📅 2026-10-09 · ![last-commit](https://badgen.net/github/last-commit/expressjs/express) · MIT License
-* [Fastify](https://fastify.dev) — `npm install fastify` · ![zipped-size](https://badgen.net/bundlephobia/minzip/fastify) · [Repository](https://github.com/fastify/fastify) ⭐ 37,285 | 🐛 173 | 🌐 JavaScript | 📅 2026-10-16 · ![last-commit](https://badgen.net/github/last-commit/fastify/fastify) · MIT License
+* [Express.js](http://expressjs.com) — `npm install express` · ![zipped-size](https://badgen.net/bundlephobia/minzip/express) · [Repository](https://github.com/expressjs/express) ⭐ 69,571 | 🐛 240 | 🌐 JavaScript | 📅 2026-10-09 · ![last-commit](https://badgen.net/github/last-commit/expressjs/express) · MIT License
+* [Fastify](https://fastify.dev) — `npm install fastify` · ![zipped-size](https://badgen.net/bundlephobia/minzip/fastify) · [Repository](https://github.com/fastify/fastify) ⭐ 37,286 | 🐛 176 | 🌐 JavaScript | 📅 2026-10-16 · ![last-commit](https://badgen.net/github/last-commit/fastify/fastify) · MIT License
 * [Koa](https://koajs.com) — `npm install koa` · ![zipped-size](https://badgen.net/bundlephobia/minzip/koa) · [Repository](https://github.com/koajs/koa) ⭐ 35,679 | 🐛 43 | 🌐 JavaScript | 📅 2026-10-09 · ![last-commit](https://badgen.net/github/last-commit/koajs/koa) · MIT License
 * [Sails.js](https://sailsjs.com) — `npm install -g sails` · ![zipped-size](https://badgen.net/bundlephobia/minzip/sails) · [Repository](https://github.com/balderdashy/sails) ⭐ 22,780 | 🐛 593 | 🌐 JavaScript | 📅 2026-05-27 · ![last-commit](https://badgen.net/github/last-commit/balderdashy/sails) · MIT License
-* [Feathers](https://feathersjs.com) — `npm install @feathersjs/feathers` · ![zipped-size](https://badgen.net/bundlephobia/minzip/@feathersjs/feathers) · [Repository](https://github.com/feathersjs/feathers) ⭐ 15,259 | 🐛 128 | 🌐 TypeScript | 📅 2026-10-01 · ![last-commit](https://badgen.net/github/last-commit/feathersjs/feathers) · MIT License
-* [Hapi](https://hapi.dev) — `npm install @hapi/hapi` · ![zipped-size](https://badgen.net/bundlephobia/minzip/@hapi/hapi) · [Repository](https://github.com/hapijs/hapi) ⭐ 14,786 | 🐛 57 | 🌐 JavaScript | 📅 2026-09-16 · ![last-commit](https://badgen.net/github/last-commit/hapijs/hapi) · BSD 3-Clause License
-* [Blitz.js](https://blitzjs.com) — `npm install -g blitz` · ![zipped-size](https://badgen.net/bundlephobia/minzip/blitz) · [Repository](https://github.com/blitz-js/blitz) ⭐ 14,121 | 🐛 90 | 🌐 TypeScript | 📅 2025-11-21 · ![last-commit](https://badgen.net/github/last-commit/blitz-js/blitz) · MIT License
+* [Feathers](https://feathersjs.com) — `npm install @feathersjs/feathers` · ![zipped-size](https://badgen.net/bundlephobia/minzip/@feathersjs/feathers) · [Repository](https://github.com/feathersjs/feathers) ⭐ 15,260 | 🐛 128 | 🌐 TypeScript | 📅 2026-10-01 · ![last-commit](https://badgen.net/github/last-commit/feathersjs/feathers) · MIT License
+* [Hapi](https://hapi.dev) — `npm install @hapi/hapi` · ![zipped-size](https://badgen.net/bundlephobia/minzip/@hapi/hapi) · [Repository](https://github.com/hapijs/hapi) ⭐ 14,788 | 🐛 57 | 🌐 JavaScript | 📅 2026-09-16 · ![last-commit](https://badgen.net/github/last-commit/hapijs/hapi) · BSD 3-Clause License
+* [Blitz.js](https://blitzjs.com) — `npm install -g blitz` · ![zipped-size](https://badgen.net/bundlephobia/minzip/blitz) · [Repository](https://github.com/blitz-js/blitz) ⭐ 14,122 | 🐛 90 | 🌐 TypeScript | 📅 2025-11-21 · ![last-commit](https://badgen.net/github/last-commit/blitz-js/blitz) · MIT License
 * [Restify](https://restify.com) — `npm install restify` · ![zipped-size](https://badgen.net/bundlephobia/minzip/restify) · [Repository](https://github.com/restify/node-restify) ⭐ 10,689 | 🐛 133 | 🌐 JavaScript | 📅 2026-09-04 · ![last-commit](https://badgen.net/github/last-commit/restify/node-restify) · MIT License
 * SocketStream — `npm install -g socketstream` · ![zipped-size](https://badgen.net/bundlephobia/minzip/socketstream) · [Repository](https://github.com/socketstream/socketstream) ⭐ 3,515 | 🐛 30 | 🌐 JavaScript | 📅 2022-03-09 · ![last-commit](https://badgen.net/github/last-commit/socketstream/socketstream) · MIT License
-* [Remult](https://remult.dev) — `npm install remult` · ![zipped-size](https://badgen.net/bundlephobia/minzip/remult) · [Repository](https://github.com/remult/remult) ⭐ 3,213 | 🐛 114 | 🌐 TypeScript | 📅 2026-10-13 · ![last-commit](https://badgen.net/github/last-commit/remult/remult) · MIT License
+* [Remult](https://remult.dev) — `npm install remult` · ![zipped-size](https://badgen.net/bundlephobia/minzip/remult) · [Repository](https://github.com/remult/remult) ⭐ 3,214 | 🐛 114 | 🌐 TypeScript | 📅 2026-10-17 · ![last-commit](https://badgen.net/github/last-commit/remult/remult) · MIT License
 * Flatiron — `npm install flatiron` · ![zipped-size](https://badgen.net/bundlephobia/minzip/flatiron) · [Repository](https://github.com/flatiron/flatiron) ⭐ 1,319 | 🐛 17 | 🌐 JavaScript | 📅 2016-12-13 · ![last-commit](https://badgen.net/github/last-commit/flatiron/flatiron) · MIT License
 * Codekart — `npm install codekart` · ![zipped-size](https://badgen.net/bundlephobia/minzip/codekart) · [Repository](https://github.com/jojoin/Codekart) ⭐ 201 | 🐛 1 | 🌐 JavaScript | 📅 2015-01-27 · ![last-commit](https://badgen.net/github/last-commit/jojoin/Codekart) · MIT License
 * [Mastro](https://mastrojs.github.io/) — `pnpm create @mastrojs/mastro` · [700 lines of TypeScript](https://github.com/mastrojs/mastro/tree/main/src#readme) ⭐ 196 | 🐛 7 | 🌐 TypeScript | 📅 2026-09-22 · [Repository](https://github.com/mastrojs/mastro/) ⭐ 196 | 🐛 7 | 🌐 TypeScript | 📅 2026-09-22 · ![last-commit](https://badgen.net/github/last-commit/mastrojs/mastro) · MIT License
@@ -184,7 +184,7 @@ Format: Name — Install · Size · Repository · Last commit · License
 
 Format: Name — Install · Repository · Last commit · License
 
-* [Mojolicious](https://mojolicious.org) — `cpan Mojolicious` · [Repository](https://github.com/mojolicious/mojo) ⭐ 2,754 | 🐛 109 | 🌐 Perl | 📅 2026-09-30 · ![last-commit](https://badgen.net/github/last-commit/mojolicious/mojo) · Artistic License 2.0
+* [Mojolicious](https://mojolicious.org) — `cpan Mojolicious` · [Repository](https://github.com/mojolicious/mojo) ⭐ 2,754 | 🐛 109 | 🌐 Perl | 📅 2026-10-16 · ![last-commit](https://badgen.net/github/last-commit/mojolicious/mojo) · Artistic License 2.0
 * [Dancer](http://www.perldancer.org) — `cpan Dancer` · [Repository](https://github.com/PerlDancer/Dancer) ⭐ 725 | 🐛 89 | 🌐 Perl | 📅 2026-09-28 · ![last-commit](https://badgen.net/github/last-commit/PerlDancer/Dancer) · Artistic License or GPL 1.0 License
 
 ## Web framework for PHP
@@ -192,11 +192,11 @@ Format: Name — Install · Repository · Last commit · License
 Format: Name — Install · Repository · Last commit · License
 
 * [Slim](http://slimframework.com/) — `composer require slim/slim` · [Repository](https://github.com/slimphp/Slim) ⭐ 12,276 | 🐛 14 | 🌐 PHP | 📅 2026-10-01 · ![last-commit](https://badgen.net/github/last-commit/slimphp/Slim) · MIT License
-* [Phalcon Framework](http://phalconphp.com/en/) — `composer require phalcon/cphalcon` · [Repository](https://github.com/phalcon/cphalcon) ⭐ 10,816 | 🐛 45 | 🌐 PHP | 📅 2026-10-15 · ![last-commit](https://badgen.net/github/last-commit/phalcon/cphalcon) · BSD 3-Clause License
+* [Phalcon Framework](http://phalconphp.com/en/) — `composer require phalcon/cphalcon` · [Repository](https://github.com/phalcon/cphalcon) ⭐ 10,817 | 🐛 51 | 🌐 PHP | 📅 2026-10-16 · ![last-commit](https://badgen.net/github/last-commit/phalcon/cphalcon) · BSD 3-Clause License
 * [Yaf](http://www.yafdev.com/) — `composer require laruence/php-yaf` · [Repository](https://github.com/laruence/yaf) ⭐ 4,510 | 🐛 0 | 🌐 C | 📅 2026-09-23 · ![last-commit](https://badgen.net/github/last-commit/laruence/yaf) · PHP License 3.01
-* [Flight](http://flightphp.com/) — `composer require flightphp/core` · [Repository](https://github.com/flightphp/core) ⭐ 2,893 | 🐛 2 | 🌐 PHP | 📅 2026-10-07 · ![last-commit](https://badgen.net/github/last-commit/flightphp/core) · MIT License
-* [Fat Free](http://fatfreeframework.com/) — `composer require bcosca/fatfree` · [Repository](https://github.com/bcosca/fatfree) ⭐ 2,717 | 🐛 52 | 🌐 HTML | 📅 2026-07-21 · ![last-commit](https://badgen.net/github/last-commit/bcosca/fatfree) · GPL 3.0 License
-* [Limonade](http://limonade-php.github.io/) — `composer require sofadesign/limonade` · [Repository](https://github.com/sofadesign/limonade) ⭐ 731 | 🐛 9 | 🌐 PHP | 📅 2023-10-13 · ![last-commit](https://badgen.net/github/last-commit/sofadesign/limonade) · MIT License
+* [Flight](http://flightphp.com/) — `composer require flightphp/core` · [Repository](https://github.com/flightphp/core) ⭐ 2,892 | 🐛 2 | 🌐 PHP | 📅 2026-10-07 · ![last-commit](https://badgen.net/github/last-commit/flightphp/core) · MIT License
+* [Fat Free](http://fatfreeframework.com/) — `composer require bcosca/fatfree` · [Repository](https://github.com/bcosca/fatfree) ⭐ 2,716 | 🐛 52 | 🌐 HTML | 📅 2026-07-21 · ![last-commit](https://badgen.net/github/last-commit/bcosca/fatfree) · GPL 3.0 License
+* [Limonade](http://limonade-php.github.io/) — `composer require sofadesign/limonade` · [Repository](https://github.com/sofadesign/limonade) ⭐ 730 | 🐛 9 | 🌐 PHP | 📅 2023-10-13 · ![last-commit](https://badgen.net/github/last-commit/sofadesign/limonade) · MIT License
 * [Opulence](https://www.opulencephp.com/) — `composer require opulence/opulence` · [Repository](https://github.com/opulencephp/Opulence) ⭐ 716 | 🐛 0 | 🌐 PHP | 📅 2023-01-24 · ![last-commit](https://badgen.net/github/last-commit/opulencephp/Opulence) · MIT License
 * [Tonic](http://www.peej.co.uk/tonic/) — `composer require peej/tonic` · [Repository](https://github.com/peej/tonic) ⭐ 623 | 🐛 36 | 🌐 PHP | 📅 2022-11-03 · ![last-commit](https://badgen.net/github/last-commit/peej/tonic) · MIT License
 * Respect\Rest — `composer require respect/rest` · [Repository](https://github.com/Respect/Rest) ⭐ 605 | 🐛 19 | 🌐 PHP | 📅 2026-09-12 · ![last-commit](https://badgen.net/github/last-commit/Respect/Rest) · BSD 3-Clause License
@@ -221,10 +221,10 @@ Format: Name — Install · Repository · Last commit · License
 
 Format: Name — Install · Repository · Last commit · License
 
-* [FastAPI](https://fastapi.tiangolo.com/) — `pip install fastapi` · [Repository](https://github.com/fastapi/fastapi) ⭐ 103,134 | 🐛 82 | 🌐 Python | 📅 2026-10-16 · ![last-commit](https://badgen.net/github/last-commit/fastapi/fastapi) · MIT License
-* [Flask](http://flask.pocoo.org/) — `pip install Flask` · [Repository](https://github.com/pallets/flask) ⭐ 74,910 | 🐛 4 | 🌐 Python | 📅 2026-10-07 · ![last-commit](https://badgen.net/github/last-commit/pallets/flask) · BSD License
-* [Tornado](http://www.tornadoweb.org/en/stable/) — `pip install tornado` · [Repository](https://github.com/tornadoweb/tornado) ⭐ 22,165 | 🐛 228 | 🌐 Python | 📅 2026-10-15 · ![last-commit](https://badgen.net/github/last-commit/tornadoweb/tornado) · Apache License 2.0
-* Sanic — `pip install sanic` · [Repository](https://github.com/sanic-org/sanic) ⭐ 18,638 | 🐛 158 | 🌐 Python | 📅 2026-07-29 · ![last-commit](https://badgen.net/github/last-commit/sanic-org/sanic) · MIT License
+* [FastAPI](https://fastapi.tiangolo.com/) — `pip install fastapi` · [Repository](https://github.com/fastapi/fastapi) ⭐ 103,160 | 🐛 81 | 🌐 Python | 📅 2026-10-16 · ![last-commit](https://badgen.net/github/last-commit/fastapi/fastapi) · MIT License
+* [Flask](http://flask.pocoo.org/) — `pip install Flask` · [Repository](https://github.com/pallets/flask) ⭐ 74,919 | 🐛 4 | 🌐 Python | 📅 2026-10-07 · ![last-commit](https://badgen.net/github/last-commit/pallets/flask) · BSD License
+* [Tornado](http://www.tornadoweb.org/en/stable/) — `pip install tornado` · [Repository](https://github.com/tornadoweb/tornado) ⭐ 22,166 | 🐛 230 | 🌐 Python | 📅 2026-10-16 · ![last-commit](https://badgen.net/github/last-commit/tornadoweb/tornado) · Apache License 2.0
+* Sanic — `pip install sanic` · [Repository](https://github.com/sanic-org/sanic) ⭐ 18,639 | 🐛 159 | 🌐 Python | 📅 2026-07-29 · ![last-commit](https://badgen.net/github/last-commit/sanic-org/sanic) · MIT License
 * [Falcon](http://falconframework.org/) — `pip install falcon` · [Repository](https://github.com/falconry/falcon) ⭐ 9,808 | 🐛 157 | 🌐 Python | 📅 2026-10-12 · ![last-commit](https://badgen.net/github/last-commit/falconry/falcon) · Apache License 2.0
 * [Bottle](http://bottlepy.org/docs/dev/) — `pip install bottle` · [Repository](https://github.com/bottlepy/bottle) ⭐ 8,797 | 🐛 289 | 🌐 Python | 📅 2026-10-10 · ![last-commit](https://badgen.net/github/last-commit/bottlepy/bottle) · MIT License
 * [Web.py](http://webpy.org/) — `pip install web.py` · [Repository](https://github.com/webpy/webpy) ⭐ 5,917 | 🐛 54 | 🌐 Python | 📅 2026-09-09 · ![last-commit](https://badgen.net/github/last-commit/webpy/webpy) · Public Domain
@@ -247,13 +247,13 @@ Format: Name — Install · Repository · Last commit · License
 Format: Name — Install · Repository · Last commit · License
 
 * [Sinatra](http://www.sinatrarb.com/) — `gem install sinatra` · [Repository](https://github.com/sinatra/sinatra) ⭐ 12,456 | 🐛 48 | 🌐 Ruby | 📅 2026-07-20 · ![last-commit](https://badgen.net/github/last-commit/sinatra/sinatra) · MIT License
-* [Grape](http://intridea.github.io/grape) — `gem install grape` · [Repository](https://github.com/ruby-grape/grape) ⭐ 10,013 | 🐛 245 | 🌐 Ruby | 📅 2026-10-11 · ![last-commit](https://badgen.net/github/last-commit/ruby-grape/grape) · MIT License
-* [Hanami](http://hanamirb.org/) — `gem install hanami` · [Repository](https://github.com/hanami/hanami) ⭐ 6,425 | 🐛 33 | 🌐 Ruby | 📅 2026-10-16 · ![last-commit](https://badgen.net/github/last-commit/hanami/hanami) · MIT License
-* [Rack](http://rack.github.io/) — `gem install rack` · [Repository](https://github.com/rack/rack) ⭐ 5,132 | 🐛 42 | 🌐 Ruby | 📅 2026-09-08 · ![last-commit](https://badgen.net/github/last-commit/rack/rack) · MIT License
-* [Trailblazer](http://trailblazer.to/) — `gem install trailblazer` · [Repository](https://github.com/trailblazer/trailblazer) ⭐ 3,472 | 🐛 38 | 🌐 Ruby | 📅 2025-07-15 · ![last-commit](https://badgen.net/github/last-commit/trailblazer/trailblazer) · MIT License
-* [Padrino](http://www.padrinorb.com/) — `gem install padrino` · [Repository](https://github.com/padrino/padrino-framework) ⭐ 3,404 | 🐛 5 | 🌐 Ruby | 📅 2026-10-16 · ![last-commit](https://badgen.net/github/last-commit/padrino/padrino-framework) · MIT License
+* [Grape](http://intridea.github.io/grape) — `gem install grape` · [Repository](https://github.com/ruby-grape/grape) ⭐ 10,013 | 🐛 247 | 🌐 Ruby | 📅 2026-10-17 · ![last-commit](https://badgen.net/github/last-commit/ruby-grape/grape) · MIT License
+* [Hanami](http://hanamirb.org/) — `gem install hanami` · [Repository](https://github.com/hanami/hanami) ⭐ 6,425 | 🐛 32 | 🌐 Ruby | 📅 2026-10-17 · ![last-commit](https://badgen.net/github/last-commit/hanami/hanami) · MIT License
+* [Rack](http://rack.github.io/) — `gem install rack` · [Repository](https://github.com/rack/rack) ⭐ 5,131 | 🐛 42 | 🌐 Ruby | 📅 2026-09-08 · ![last-commit](https://badgen.net/github/last-commit/rack/rack) · MIT License
+* [Trailblazer](http://trailblazer.to/) — `gem install trailblazer` · [Repository](https://github.com/trailblazer/trailblazer) ⭐ 3,473 | 🐛 38 | 🌐 Ruby | 📅 2025-07-15 · ![last-commit](https://badgen.net/github/last-commit/trailblazer/trailblazer) · MIT License
+* [Padrino](http://www.padrinorb.com/) — `gem install padrino` · [Repository](https://github.com/padrino/padrino-framework) ⭐ 3,404 | 🐛 2 | 🌐 Ruby | 📅 2026-10-17 · ![last-commit](https://badgen.net/github/last-commit/padrino/padrino-framework) · MIT License
 * [Volt](http://voltframework.com/) — `gem install volt` · [Repository](https://github.com/voltrb/volt) ⭐ 3,195 | 🐛 76 | 🌐 Ruby | 📅 2018-01-23 · ![last-commit](https://badgen.net/github/last-commit/voltrb/volt) · MIT License
-* Karafka — `gem install karafka` · [Repository](https://github.com/karafka/karafka) ⭐ 2,252 | 🐛 88 | 🌐 Ruby | 📅 2026-10-16 · ![last-commit](https://badgen.net/github/last-commit/karafka/karafka) · MIT License
+* Karafka — `gem install karafka` · [Repository](https://github.com/karafka/karafka) ⭐ 2,252 | 🐛 83 | 🌐 Ruby | 📅 2026-10-17 · ![last-commit](https://badgen.net/github/last-commit/karafka/karafka) · MIT License
 * [Cuba](http://cuba.is/) — `gem install cuba` · [Repository](https://github.com/soveran/cuba) ⭐ 1,447 | 🐛 4 | 🌐 Ruby | 📅 2024-01-24 · ![last-commit](https://badgen.net/github/last-commit/soveran/cuba) · MIT License
 * [Camping](http://camping.io/) — `gem install camping` · [Repository](https://github.com/camping/camping) ⭐ 993 | 🐛 48 | 🌐 Ruby | 📅 2026-08-24 · ![last-commit](https://badgen.net/github/last-commit/camping/camping) · MIT License
 * [Ramaze](http://ramaze.net/) — `gem install ramaze` · [Repository](https://github.com/ramaze/ramaze) ⭐ 371 | 🐛 18 | 🌐 Ruby | 📅 2023-08-22 · ![last-commit](https://badgen.net/github/last-commit/ramaze/ramaze) · MIT License
@@ -268,10 +268,10 @@ Format: Name — Install · Repository · Last commit · License
 
 Format: Name — Repository · Last commit · License
 
-* [Play Framework](http://www.playframework.com/) — [Repository](https://github.com/playframework/playframework) ⭐ 12,618 | 🐛 490 | 🌐 Scala | 📅 2026-10-14 · ![last-commit](https://badgen.net/github/last-commit/playframework/playframework) · Apache License 2.0
+* [Play Framework](http://www.playframework.com/) — [Repository](https://github.com/playframework/playframework) ⭐ 12,619 | 🐛 486 | 🌐 Scala | 📅 2026-10-17 · ![last-commit](https://badgen.net/github/last-commit/playframework/playframework) · Apache License 2.0
 * [Scalatra](http://scalatra.org) — [Repository](https://github.com/scalatra/scalatra) ⭐ 2,648 | 🐛 72 | 🌐 Scala | 📅 2026-10-13 · ![last-commit](https://badgen.net/github/last-commit/scalatra/scalatra) · BSD License
 * [Finatra](http://finatra.info) — [Repository](https://github.com/twitter/finatra) ⭐ 2,273 | 🐛 22 | 🌐 Scala | 📅 2025-08-18 · ![last-commit](https://badgen.net/github/last-commit/twitter/finatra) · Apache License 2.0
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-16._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-17._
